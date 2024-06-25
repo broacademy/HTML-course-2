@@ -4,15 +4,16 @@
 
 26.06.24 - 
 
-[Lectures template Figma]() 
-[Homework template Figma]()  
-[Diploma template Figma]()      
-[Jira Board](https://bro-academy.atlassian.net/jira/core/projects/BAHC2/board)         
+[Lectures template Figma]()          
+[Homework template Figma]()            
+[Diploma template Figma]()                 
+[Jira Board](https://bro-academy.atlassian.net/jira/core/projects/BAHC2/board)                
 <!-- [Criterias](criteria.md)                -->
 
-[Presentations](presentations)
+[Presentations](presentations)    
+[Manuals](manuals)              
 
-- [Lesson 1. Internet & browser](lesson-1.md)
+- [Lesson 1. Internet & browser](lesson-1.md)             
 <!-- - [Lesson 2. HTML](lesson-2.md) 
 - [Lesson 3. Git](lesson-3.md) 
 - [Lesson 4. CSS](lesson-4.md)
