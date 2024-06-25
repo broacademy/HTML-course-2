@@ -14,7 +14,7 @@
 
 ## History 
 
-🟢 **[General IT dictionary](https://www.codecademy.com/resources/docs/general)** - This extensive dictionary provides definitions for all key IT terms, making it an indispensable resource for students and professionals in the field of information technology. (eng)
+🟢 **[General IT dictionary](https://www.codecademy.com/resources/docs/general)** - This extensive dictionary provides definitions for all key IT terms, making it an indispensabe resource for students and professionals in the field of information technology. (eng)
 
 🔵 **[What Is an Operating System?](https://www.codecademy.com/resources/blog/operating-system/)** - Explaining the basic concepts and functions of operating systems, this article is a great introduction for those who want to understand how computers and mobile devices work at the most basic level. (eng)
 
