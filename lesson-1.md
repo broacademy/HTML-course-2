@@ -217,8 +217,6 @@ Last but not the least, Apna College with Aman Dhattarwal with his team as the f
 
 ***
 
-**[50 Best Movies and TV Shows About Technology](https://ru.hexlet.io/blog/posts/filmoteka-dlya-programmistov-25-filmov-o-programmirovanii-tehnologiyah-i-iskusstvennom-intellekte)** - An article from Hexlet offering an extensive list of movies and TV shows related to programming, technology, and artificial intelligence. This list can serve as a great source of inspiration and entertainment for those interested in the IT field and wanting to learn more about the cultural impact of technology.
-
 ## Tools
 
 **[Tiny Helpers](https://tiny-helpers.dev/)** - A curated collection of useful online tools for developers and designers. Includes a wide range of tools on various topics, including CSS, JavaScript, accessibility, colors, optimization, and more. An excellent resource for simplifying and automating web development tasks.
