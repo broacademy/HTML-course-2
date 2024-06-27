@@ -13,7 +13,7 @@
    - [MaxDesign Tutorial](https://russmaxdesign.github.io/maxdesign-slides/01-html/106-creating-document.html#/)
    - This tutorial provides step-by-step instructions on marking up a webpage. You can choose any text to place on your site, such as your hobby—nuclear reactors of submarines, extinct animals, or Winx fairies. You can work in a code editor or CodePen. The goal is to consolidate all the steps for marking up a document and create a simple markup.
 
-   Additional Exercises by the Same Author   
+   Additional exercises by the same author:     
    - [Basic HTML](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson01.pdf)
    - [Content Markup](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson02.pdf)
    - [Scripts and Styles](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson03.pdf)
@@ -28,9 +28,9 @@
    [Text for the site](lesson-2-homeworks/macarons/text.doc)
    [Images for the site](lesson-2-homeworks/macarons/img)
 
-5. Make semantic markup for the highlighted blocks of the layout:
+5. Make semantic markup for the highlighted blocks of the [template](https://www.figma.com/design/9ncwdLjIIzY9E1UtQDZ1WA/Binabox-Template?node-id=0-1&t=pf473VwoCWsFQ5t6-0):
    
-   - Home page (exclude the subscribe block in the page footer) - index.html
+   - Home page (exclude the subscribtion block in the page footer) - index.html
    - Catalog page (exclude the filter block on the left) - catalog.html
    - Item page (exclude the reply block) - catalog-item.html
    
