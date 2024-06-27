@@ -1,7 +1,7 @@
 # Homework
 
-1. [FreeCodeCamp HTML Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1)  
-or  
+1. [FreeCodeCamp HTML Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1)  <br />
+or  <br />
 [Scaler HTML Course](https://www.scaler.com/topics/html/). Complete Modules 1-5.
 
 2. Emmet Practice 
@@ -12,25 +12,25 @@ or
 - [MaxDesign Tutorial](https://russmaxdesign.github.io/maxdesign-slides/01-html/106-creating-document.html#/)
 - This tutorial provides step-by-step instructions on marking up a webpage. You can choose any text to place on your site, such as your hobby—nuclear reactors of submarines, extinct animals, or Winx fairies. You can work in a code editor or CodePen. The goal is to consolidate all the steps for marking up a document and create a simple markup.
 
-4. Assignment for choosing semantic tags:
+4. Assignment for choosing semantic tags: <br />
 
-It is necessary to mark up an HTML document with a recipe. Creating an external resemblance is not required; the main thing is to select elements for markup as semantically as possible. Attach the markup file to your task in Jira.
+   It is necessary to mark up an HTML document with a recipe. Creating an external resemblance is not required; the main thing is to select elements for markup as semantically as possible. Attach the markup file to your task in Jira.
 
-[Example result](lesson-2-homeworks/macarons/example.pdf)
-[Text for the site](lesson-2-homeworks/macarons/text.doc)
-[Images for the site](lesson-2-homeworks/macarons/img)  
+   [Example result](lesson-2-homeworks/macarons/example.pdf) <br />
+   [Text for the site](lesson-2-homeworks/macarons/text.doc)<br />
+   [Images for the site](lesson-2-homeworks/macarons/img)  <br />
 
 5. Make semantic markup for the highlighted blocks of the [template](https://www.figma.com/design/9ncwdLjIIzY9E1UtQDZ1WA/Binabox-Template?node-id=0-1&t=pf473VwoCWsFQ5t6-0):  
 
-- Home page (exclude the subscribtion block in the page footer) - index.html
-- Catalog page (exclude the filter block on the left) - catalog.html
-- Item page (exclude the reply block) - catalog-item.html
+   - Home page (exclude the subscribtion block in the page footer) - index.html
+   - Catalog page (exclude the filter block on the left) - catalog.html
+   - Item page (exclude the reply block) - catalog-item.html
 
-The markup should be done using Emmet. 
-Consider the semantic meaning of the tags and their purpose.  
-All elements should be assigned classes. 
-Before submitting for review, validate the markup.
-Collect the markup files in an archive and attach them in the comments to your task in Jira. 
+   The markup should be done using Emmet. <br />
+   Consider the semantic meaning of the tags and their purpose.  <br />
+   All elements should be assigned classes. <br />
+   Before submitting for review, validate the markup.<br />
+   Collect the markup files in an archive and attach them in the comments to your task in Jira. <br />
 
 ## Additional homework 
 
