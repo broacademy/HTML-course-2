@@ -2,13 +2,14 @@
 
 1. Free HTML Course in English
    - [FreeCodeCamp HTML Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1)
-2. HTML Course in English 
+   or
+   HTML Course in English 
    - [Scaler HTML Course](https://www.scaler.com/topics/html/)
    - Complete Modules 1-5.
-5. Emmet Practice 
+2. Emmet Practice 
    - Use the [Emmet](https://emmet.io/) to improve your efficiency in writing HTML and CSS code.
    - [Free course on Emmet.](https://www.udemy.com/course/emmet-start-coding-html-and-css-fast-and-easy/) Getting started, Emmet & HTML.
-6. Detailed Tutorial on Creating and Marking Up a Web Page   
+3. Detailed Tutorial on Creating and Marking Up a Web Page   
    - [MaxDesign Tutorial](https://russmaxdesign.github.io/maxdesign-slides/01-html/106-creating-document.html#/)
    - This tutorial provides step-by-step instructions on marking up a webpage. You can choose any text to place on your site, such as your hobby—nuclear reactors of submarines, extinct animals, or Winx fairies. You can work in a code editor or CodePen. The goal is to consolidate all the steps for marking up a document and create a simple markup.
 
@@ -19,21 +20,6 @@
    - [Tables](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson04.pdf)
    - [Valid Markup](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson06.pdf)
 
-
-1. Complete the Emmet exercise.
-   [Free course on Emmet.](https://www.udemy.com/course/emmet-start-coding-html-and-css-fast-and-easy/) Getting started, Emmet & HTML.
-
-2. [Detailed guide on creating and marking up a webpage](https://russmaxdesign.github.io/maxdesign-slides/01-html/106-creating-document.html) with a review of the material covered, in English.
-
-   This tutorial walks through the markup actions step by step. You can choose any text to insert into your site. Your hobby can be a reference point – nuclear reactors of submarines, extinct animals, or Winx fairies. You can do it in a code editor or in CodePen. The goal is to consolidate all the steps for document markup and create simple markup.
-
-   You can also do a few more exercises by the same author with more details:
-   – [basic html](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson01.pdf)
-   – [content markup](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson02.pdf)
-   – [scripts and styles](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson03.pdf)
-   – [tables](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson04.pdf)
-   – [valid markup](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson06.pdf)
-
 4. Assignment for choosing semantic tags:
 
    It is necessary to mark up an HTML document with a recipe. Creating an external resemblance is not required; the main thing is to select elements for markup as semantically as possible. Attach the markup file to your task in Jira.
@@ -42,7 +28,7 @@
    [Text for the site](lesson-2-homeworks/macarons/text.doc)
    [Images for the site](lesson-2-homeworks/macarons/img)
 
-6. Make semantic markup for the highlighted blocks of the layout:
+5. Make semantic markup for the highlighted blocks of the layout:
    
    - Home page (exclude the subscribe block in the page footer) - index.html
    - Catalog page (exclude the filter block on the left) - catalog.html
