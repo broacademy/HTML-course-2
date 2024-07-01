@@ -33,7 +33,6 @@
    5. Choose semantic tags by example: <br />
       [Example result](lesson-2-homeworks/macarons/example.pdf) <br />
    6. Collect the markup files in an archive and attach them in the comments to your task in Jira.
-      ![image](screenshots/screenshot-2.png)
 
 5. Make semantic markup for the highlighted blocks of the [template](https://www.figma.com/design/jqIedRSOsKC20T9QeDDNdL/BinaBox-UI-KIT?m=auto&t=i6erh0Dx5FtN5UNo-6):  
 
@@ -47,7 +46,7 @@
       - Catalog page (exclude the filter block on the left) 
       - Item page (exclude the reply block)
       Consider the semantic meaning of the tags and their purpose. 
-      All elements should be assigned classes. 
+      All elements should be assigned classes. (Common class names cheat sheet)[lesson-2-homeworks/class-names.md]. 
    4. Before submitting for review, [validate](https://validator.nu/#textarea) the markup.
    5. Check [headings tree](https://yoksel.github.io/html-tree/)
    6. Collect the markup files in an archive and attach it in the comments to your task in Jira.
