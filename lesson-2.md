@@ -48,9 +48,9 @@
       - Item page (exclude the reply block)
       Consider the semantic meaning of the tags and their purpose. 
       All elements should be assigned classes. 
-   4. Before submitting for review, validate the markup.
-   5. Check headings hy
-   6. Collect the markup files in an archive and attach them in the comments to your task in Jira.
+   4. Before submitting for review, [validate](https://validator.nu/#textarea) the markup.
+   5. Check [headings tree](https://yoksel.github.io/html-tree/)
+   6. Collect the markup files in an archive and attach it in the comments to your task in Jira.
 
    The markup should be done using Emmet. <br />
 
@@ -63,7 +63,7 @@
    - [Tables](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson04.pdf)
    - [Valid Markup](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson06.pdf)
 
-2. If the main homework is done and you want more practice, you can do other pages of your homework[template](https://www.figma.com/design/9ncwdLjIIzY9E1UtQDZ1WA/Binabox-Template?node-id=0-1&t=pf473VwoCWsFQ5t6-0):
+2. If the main homework is done and you want more practice, you can do other pages of your homework [template](https://www.figma.com/design/9ncwdLjIIzY9E1UtQDZ1WA/Binabox-Template?node-id=0-1&t=pf473VwoCWsFQ5t6-0):
    - blog page
    - blog article 
    - about us 
