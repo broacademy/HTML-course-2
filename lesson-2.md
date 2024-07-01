@@ -26,7 +26,7 @@
    1. Download archive with [starter kit](lesson-2-homeworks/starter-kit.zip) for projects. <br />
       ![image](screenshots/screenshot-1.png)
    2. Download materials for this task: <br />
-      [Text for the site](lesson-2-homeworks/macarons/text.doc)<br />
+      [Text for the site](lesson-2-homeworks/macarons/text.txt)<br />
       [Images for the site](lesson-2-homeworks/macarons/img)  <br />
    3. Add images to your project folder. <br />
    4. Add text to your index.html. <br />
