@@ -2,7 +2,7 @@
 
 **[Presentation](presentations/presentation-2.pdf)**<br />
 **[Manual](manuals/manual-2.pdf)**<br />
-**[Example project]**(https://github.com/broacademy/pharmify)<br />
+**[Example project](https://github.com/broacademy/pharmify)**<br />
 
 [Criteria for HTML Course Quality](criteria.md)<br />
 
