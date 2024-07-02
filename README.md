@@ -4,11 +4,13 @@
 
 26.06.24 - 18.09.2024
 
-[Lectures template Figma](https://www.figma.com/design/IJ25mXARReFKZYhjvLqP0n/Pharmify-Theme-Package?node-id=0-1&t=tfmS8RhTBMcyubRQ-0) <br />
-[Homework template Figma](https://www.figma.com/design/jqIedRSOsKC20T9QeDDNdL/BinaBox-UI-KIT?m=auto&t=i6erh0Dx5FtN5UNo-6) <br />
-[Diploma template Figma](https://www.figma.com/design/FMqeul3iRdASufNkPHMKgm/PixMart---Digital-Products-E-Commerce-Website-UI-Figma?node-id=5-55&t=GhklFC9z7NjpzBTZ-0)  <br />
+[Homework template Figma - Binabox](https://www.figma.com/design/jqIedRSOsKC20T9QeDDNdL/BinaBox-UI-KIT?m=auto&t=gBzlUoU5MRyDe3QY-6) <br />
+[Diploma template Figma - PixMart](https://www.figma.com/design/FMqeul3iRdASufNkPHMKgm/PixMart---Digital-Products-E-Commerce-Website-UI-Figma?node-id=5-55&t=GhklFC9z7NjpzBTZ-0)  <br />
+
+[Lectures template Figma - Pharmify](https://www.figma.com/design/auFieaBExddBH3NrBBcx2N/Pharmify-UI-KIT?t=gBzlUoU5MRyDe3QY-1) <br />
+**[Example project - Pharmify](https://github.com/broacademy/pharmify)**<br />
+
 [Jira Board](https://bro-academy.atlassian.net/jira/core/projects/BAHC2/board) <br />
-<!-- [Criterias](criteria.md) -->
 
 [Presentations](presentations) <br />
 [Manuals](manuals)  <br />

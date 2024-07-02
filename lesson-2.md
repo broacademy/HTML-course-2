@@ -2,6 +2,7 @@
 
 **[Presentation](presentations/presentation-2.pdf)**<br />
 **[Manual](manuals/manual-2.pdf)**<br />
+**[Example project]**(https://github.com/broacademy/pharmify)<br />
 
 [Criteria for HTML Course Quality](criteria.md)<br />
 
@@ -34,7 +35,7 @@
       [Example result](lesson-2-homeworks/macarons/example.pdf) <br />
    6. Collect the markup files in an archive and attach them in the comments to your task in Jira.
 
-5. Make semantic markup for the highlighted blocks of the [template](https://www.figma.com/design/jqIedRSOsKC20T9QeDDNdL/BinaBox-UI-KIT?m=auto&t=i6erh0Dx5FtN5UNo-6):  
+5. Make semantic markup for the highlighted blocks of the [template](https://www.figma.com/design/jqIedRSOsKC20T9QeDDNdL/BinaBox-UI-KIT?m=auto&t=gBzlUoU5MRyDe3QY-6):  
 
    1. Download archive with [starter kit](lesson-2-homeworks/starter-kit.zip) for projects.
    2. Create files for markup:
@@ -62,7 +63,7 @@
    - [Tables](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson04.pdf)
    - [Valid Markup](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson06.pdf)
 
-2. If the main homework is done and you want more practice, you can do other pages of your homework [template](https://www.figma.com/design/9ncwdLjIIzY9E1UtQDZ1WA/Binabox-Template?node-id=0-1&t=pf473VwoCWsFQ5t6-0):
+2. If the main homework is done and you want more practice, you can do other pages of your homework [template](https://www.figma.com/design/jqIedRSOsKC20T9QeDDNdL/BinaBox-UI-KIT?m=auto&t=gBzlUoU5MRyDe3QY-6):
    - blog page
    - blog article 
    - about us 
