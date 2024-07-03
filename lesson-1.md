@@ -2,6 +2,7 @@
 
 **[Presentation](presentations/presentation-1.pdf)**<br />
 **[Manual](manuals/manual-1.pdf)**<br />
+**[Video record](https://drive.google.com/file/d/15Yyum7uykczxJKonL568PyvMHDH4TKsb/view?usp=drive_link)**<br />
 
 # Homework
 
