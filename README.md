@@ -19,9 +19,9 @@
 26.06.24 [Lesson 1. Internet & browser](lesson-1.md)  <br />
   
 01.07.2024 [Lesson 2. HTML](lesson-2.md) <br />
-03.07.2024 [HTML Practice] <br />
+03.07.2024 [HTML Practice](practice/practice-2.pdf) <br />
   
-08.07.2024 [Lesson 3. Git]  <br />
+08.07.2024 [Lesson 3. Git](lesson-3.md)  <br />
 10.07.2024 [Git Practice] <br />
 <!-- (lesson-3.md)  -->
 15.07.2024 [Lesson 4. CSS]<br />
