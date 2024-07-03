@@ -38,19 +38,19 @@
       [Example result](lesson-2-homeworks/macarons/example.pdf) <br />
    6. Collect the markup files in an archive and attach them in the comments to your task in Jira.
 
-5. Make semantic markup for the highlighted blocks of the [template](https://www.figma.com/design/jqIedRSOsKC20T9QeDDNdL/BinaBox-UI-KIT?m=auto&t=gBzlUoU5MRyDe3QY-6):  
+5. Make semantic markup for the all blocks of the [template](https://www.figma.com/design/jqIedRSOsKC20T9QeDDNdL/BinaBox-UI-KIT?m=auto&t=gBzlUoU5MRyDe3QY-6) with exclusions.
 
    1. Download archive with [starter kit](lesson-2-homeworks/starter-kit.zip) for projects.
-   2. Create files for markup:
-      - Home page - index.html
-      - Catalog page - catalog.html
-      - Item page - catalog-item.html
-   3. Choose semantic tags, exclude blocks with forms:
-      - Home page (exclude the subscribtion block in the page footer)
-      - Catalog page (exclude the filter block on the left) 
-      - Item page (exclude the reply block)
-      Consider the semantic meaning of the tags and their purpose. 
-      All elements should be assigned classes. (Common class names cheat sheet)[lesson-2-homeworks/class-names.md]. 
+   2. Create files for markup: <br />
+      - Home page - index.html <br />
+      - Catalog page - catalog.html <br />
+      - Item page - catalog-item.html <br />
+   3. Choose semantic tags, exclude blocks with forms: <br />
+      - Home page (exclude the subscribtion block in the page footer) <br />
+      - Catalog page (exclude the filter block on the left) <br />
+      - Item page <br />
+      Consider the semantic meaning of the tags and their purpose.  <br />
+      All elements should be assigned classes. (Common class names cheat sheet)[lesson-2-homeworks/class-names.md]. <br />
    4. Before submitting for review, [validate](https://validator.nu/#textarea) the markup.
    5. Check [headings tree](https://yoksel.github.io/html-tree/)
    6. Collect the markup files in an archive and attach it in the comments to your task in Jira.
