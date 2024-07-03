@@ -48,9 +48,9 @@
    3. Choose semantic tags, exclude blocks with forms: <br />
       - Home page (exclude the subscribtion block in the page footer) <br />
       - Catalog page (exclude the filter block on the left) <br />
-      - Item page <br />
+      
       Consider the semantic meaning of the tags and their purpose.  <br />
-      All elements should be assigned classes. (Common class names cheat sheet)[lesson-2-homeworks/class-names.md]. <br />
+      All elements should be assigned classes. [Common class names cheat sheet](lesson-2-homeworks/class-names.md). <br />
    4. Before submitting for review, [validate](https://validator.nu/#textarea) the markup.
    5. Check [headings tree](https://yoksel.github.io/html-tree/)
    6. Collect the markup files in an archive and attach it in the comments to your task in Jira.
