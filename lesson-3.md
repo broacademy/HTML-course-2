@@ -12,10 +12,13 @@
 9. Go to GitHub and check if the changes appeared in the forked repository.
 10. Go to the original project page - [fork-test](https://github.com/broacademy/fork-test).
 11. Verify that no changes appeared there.
+
+Optional:
 12. Create a pull request from your fork to the original repository.
 13. On the pull request page, you can see all the changes made in your repository and propose them to be merged into the original repository.
-14. This pull request will remain open until I accept it. I might add comments to the code in this PR 🙂
-15. If I request some changes, you will need to commit and push the new changes, and they will automatically be included in the existing pull request.
+14. This pull request will remain open until we accept it. we might add comments to the code in this PR 🙂
+15. If we request some changes, you will need to commit and push the new changes, and they will automatically be included in the existing pull request.
+p.s. We will not merge this PR, it will be closed.
 
 ## 2. Create your own repository on GitHub and upload the markup of the training project from the last session.
 1. Create an empty repository on GitHub in your account.
@@ -24,7 +27,16 @@
 4. Commit your changes via VS Code, writing a commit message like “Added markup”.
 5. Push the changes.
 6. Go to GitHub and check if the files appeared in the repository.
-7. Make some changes in the website code and commit and push again to ensure the changes are tracked in GitHub.
+7. Create a new branch with name "lesson-3".
+8. Make some changes in the website code and commit than push again to ensure the changes are tracked in GitHub. 
+
+9. Create a pull request from your current branch to the main branch.
+10. On the pull request page, you can see all the changes made in your current branch and propose them to be merged into the msin branch.
+11. This pull request will remain open until mentor review it. We might add comments to the code in this PR 🙂
+12. If We request some changes, you will need to commit and push the new changes, and they will automatically be included in the existing pull request.
+13. Merge this pull request after approve. 
+
+Remember how to name commits messages correctly.
 
 ## 3. Teamwork with one repository 
 It's a funny kids game, maybe you know it.
