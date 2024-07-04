@@ -13,7 +13,8 @@
 10. Go to the original project page - [fork-test](https://github.com/broacademy/fork-test).
 11. Verify that no changes appeared there.
 
-Optional:
+Optional: <br>
+
 12. Create a pull request from your fork to the original repository.
 13. On the pull request page, you can see all the changes made in your repository and propose them to be merged into the original repository.
 14. This pull request will remain open until we accept it. we might add comments to the code in this PR 🙂
