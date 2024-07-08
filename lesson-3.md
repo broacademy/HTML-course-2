@@ -18,10 +18,10 @@ Optional: <br>
 12. Create a pull request from your fork to the original repository.
 13. On the pull request page, you can see all the changes made in your repository and propose them to be merged into the original repository.
 14. This pull request will remain open until we accept it. we might add comments to the code in this PR 🙂
-15. If we request some changes, you will need to commit and push the new changes, and they will automatically be included in the existing pull request.
+15. If we request some changes, you will need to commit and push the new changes, and they will automatically be included in the existing pull request. <br>
 p.s. We will not merge this PR, it will be closed.
 
-## 2. Create your own repository on GitHub and upload the markup of the training project from the last session.
+## 2. Create your own repository on GitHub and upload the markup of the homework project from the previous lesson
 1. Create an empty repository on GitHub in your account.
 2. Clone it to your computer via VS Code.
 3. Copy the existing files into the homework project folder created on your computer.
@@ -32,29 +32,28 @@ p.s. We will not merge this PR, it will be closed.
 8. Make some changes in the website code and commit than push again to ensure the changes are tracked in GitHub. 
 
 9. Create a pull request from your current branch to the main branch.
-10. On the pull request page, you can see all the changes made in your current branch and propose them to be merged into the msin branch.
+10. On the pull request page, you can see all the changes made in your current branch and propose them to be merged into the main branch.
 11. This pull request will remain open until mentor review it. We might add comments to the code in this PR 🙂
 12. If We request some changes, you will need to commit and push the new changes, and they will automatically be included in the existing pull request.
 13. Merge this pull request after approve. 
 
 Remember how to name commits messages correctly.
 
-## 3. Teamwork with one repository 
-It's a funny kids game, maybe you know it.
-Each player must write a response to the current question based on their imagination. The answer should be kept secret from the other players.
-Encourage creativity and humor to make the final stories more entertaining.
-Theme for this play session: fairytale. 
-1. Fork [game repository](https://github.com/broacademy/game) and clone to your computer.
-2. You have your own number, tagged in Slack. Answer the question with the same line number in `README.md` and push the changes to your repository.
-3. Create a pull request from your repository to the original repository.
-4. In the next practice lesson, we will merge the pull requests and get the text.
-Try not to look at others' PRs to maintain the suspense.
-
 ## Additional Tasks
 
-1. Create a README.md file in the repository of your main homework project and fill it with information about the project. You can use [markdowm](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+1. Create a README.md file in the repository and fill it with information about the project: <br>
+    - project name <br>
+    - your name <br>
+    - course name <br>
+    - decription <br>
+    - etc <br>
 
-2. Create repository for Macaron recipe. 
+You can use [markdowm](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+2. Create repository for Macaron recipe or diploma project. 
+<br>
+<br>
+<br>
 
 # Additional Materials
 
