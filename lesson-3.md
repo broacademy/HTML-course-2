@@ -1,3 +1,8 @@
+# Lesson 3. Version control & GIT 
+
+**[Presentation](presentations/presentation-3.pdf)**<br />
+**[Manual](manuals/manual-3.pdf)**<br />
+
 # Homework
 
 ## 1. Fork a repository on GitHub
