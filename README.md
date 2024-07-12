@@ -22,9 +22,9 @@
 03.07.2024 [HTML Practice](practice/practice-2.pdf) <br />
   
 08.07.2024 [Lesson 3. Git](lesson-3.md)  <br />
-10.07.2024 [Git Practice] <br />
+10.07.2024 [Git Practice](practice/practice-3.pdf) <br />
 <!-- (lesson-3.md)  -->
-15.07.2024 [Lesson 4. CSS]<br />
+15.07.2024 [Lesson 4. CSS](lesson-4.md) <br />
 17.07.2024 [CSS Practice]<br />
 <!-- (lesson-4.md) -->
 22.07.2024 [Lesson 5. Images]  <br />
