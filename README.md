@@ -5,7 +5,7 @@
 26.06.24 - 18.09.2024
 
 [Homework template Figma - Binabox](https://www.figma.com/design/jqIedRSOsKC20T9QeDDNdL/BinaBox-UI-KIT?m=auto&t=gBzlUoU5MRyDe3QY-6) <br />
-[Diploma template Figma - PixMart](https://www.figma.com/design/FMqeul3iRdASufNkPHMKgm/PixMart---Digital-Products-E-Commerce-Website-UI-Figma?node-id=5-55&t=GhklFC9z7NjpzBTZ-0)  <br />
+[Diploma template Figma - PixMart](https://www.figma.com/design/7HK7TzghZnR3ZhxB18Rrox/PixMart---Website-UI-Figma?m=auto&t=NJEjEybOi163nD7Z-6)  <br />
 
 [Lectures template Figma - Pharmify](https://www.figma.com/design/auFieaBExddBH3NrBBcx2N/Pharmify-UI-KIT?t=gBzlUoU5MRyDe3QY-1) <br />
 **[Example project - Pharmify](https://github.com/broacademy/pharmify)**<br />
