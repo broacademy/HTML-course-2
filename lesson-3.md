@@ -57,8 +57,6 @@ You can use [markdowm](https://docs.github.com/en/get-started/writing-on-github/
 
 2. Create repository for Macaron recipe or diploma project. 
 <br>
-<br>
-<br>
 
 # Additional Materials
 
