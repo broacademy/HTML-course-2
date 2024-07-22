@@ -24,33 +24,33 @@
 08.07.2024 [Lesson 3. Git](lesson-3.md)  <br />
 10.07.2024 [Git Practice](practice/practice-3.pdf) <br />
 <!-- (lesson-3.md)  -->
-15.07.2024 [Lesson 4. CSS](lesson-4.md) <br />
-17.07.2024 [CSS Practice]<br />
+22.07.2024 [Lesson 4. CSS](lesson-4.md) <br />
+24.07.2024 [CSS Practice]<br />
 <!-- (lesson-4.md) -->
-22.07.2024 [Lesson 5. Images]  <br />
-24.07.2024 [Images Practice]  <br />
+29.07.2024 [Lesson 5. Images]  <br />
+31.07.2024 [Images Practice]  <br />
 <!-- (lesson-5.md)  -->
-29.07.2024 [Lesson 6. Forms] <br />
-31.07.2024 [Forms Practice]  <br />
+05.08.2025 [Lesson 6. Forms] <br />
+07.08.2024 [Forms Practice]  <br />
 <!-- (lesson-6.md)  -->
-05.08.2025 [Practice]  <br />
-07.08.2024 [Practice] <br />
+12.08.2024 [Practice]  <br />
+14.08.2024 [Practice] <br />
  
-12.08.2024 [Lesson 7. Document model & flexbox]<br />
-14.08.2024 [Flex Practice]<br />
+19.08.2024 [Lesson 7. Document model & flexbox]<br />
+21.08.2024 [Flex Practice]<br />
 <!-- (lesson-7.md) -->
-19.08.2024 [Lesson 8. Grid]<br />
-21.08.2024 [Grid Practice] <br />
+26.08.2024 [Lesson 8. Grid]<br />
+28.08.2024 [Grid Practice] <br />
 <!-- (lesson-8.md)  -->
-26.08.2024 [Lesson 9. CSS+]  <br />
-28.08.2024 [CSS Practice]  <br />
+02.09.2024 [Lesson 9. CSS+]  <br />
+04.09.2024 [CSS Practice]  <br />
 <!-- (lesson-9.md)  -->
-02.09.2024 [Lesson 10. Animation]<br />
-04.09.2024 [Animation Practice]<br />
+09.09.2024 [Lesson 10. Animation]<br />
+11.09.2024 [Animation Practice]<br />
 <!-- (lesson-10.md)  -->
-09.09.2024 [Pre diploma Practice]<br />
-11.09.2024 [Practice] <br />
-16.09.2024 [Practice]<br />
+16.09.2024 [Pre diploma Practice]<br />
+18.09.2024 [Practice] <br />
+23.09.2024 [Practice]<br />
 <!-- (pre-final-practise.md) -->
-18.09.2024 [Final]<br />
+25.09.2024 [Final]<br />
 <!-- (final.md)  -->

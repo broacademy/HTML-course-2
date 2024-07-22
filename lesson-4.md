@@ -12,7 +12,7 @@
    - [Scaler](https://www.scaler.com/topics/css/) modules 1-3. It takes about two hours to complete, a lot of theory without practice.
    - [Free code camp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1) A detailed course where you simultaneously markup and style based on a single cohesive project. Complete if you want to practice alongside theory. The first 10 steps are only markup, then CSS starts.
 
-2. Learn shortlads for [CSS Emmet](https://docs.emmet.io/css-abbreviations/). 
+2. Learn shorthads for [CSS Emmet](https://docs.emmet.io/css-abbreviations/). 
 
 3. Connect `[normalize.css](https://necolas.github.io/normalize.css/)` to your project as a separate file. 
 
@@ -32,10 +32,10 @@
 
 # Very useful tools for work on project
 
-🟢 **[VS code plugin for creare CSS classes](https://marketplace.visualstudio.com/items?itemName=evondev.generate-css-class)**
-🟢 **[VS code plugin for formatting code](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**
+🟢 **[VS code plugin for creare CSS classes](https://marketplace.visualstudio.com/items?itemName=evondev.generate-css-class)** <br>
+🟢 **[VS code plugin for formatting code](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** <br>
 
-**[Code formatter](https://www.geeksforgeeks.org/online-code-formatter/)**
+**[Code formatter](https://www.geeksforgeeks.org/online-code-formatter/)** <br>
 
 ## Courses
 
