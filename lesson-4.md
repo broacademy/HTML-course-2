@@ -1,7 +1,7 @@
 # Lesson 4. Introduction to CSS
 
-<!-- **[Presentation](presentations/presentation-4.pdf)**<br />
-**[Manual](manuals/manual-4.pdf)**<br /> -->
+**[Presentation](presentations/presentation-4.pdf)**<br />
+**[Manual](manuals/manual-4.pdf)**<br />
 
 <!-- **[Video record](https://drive.google.com/file/d/1Tb1lsks43vtdxjWWKCy8kkTLy6X1iRKr/view?usp=drive_link)**
 **[Practice](practice/practice-3.pdf)** -->
@@ -12,9 +12,9 @@
    - [Scaler](https://www.scaler.com/topics/css/) modules 1-3. It takes about two hours to complete, a lot of theory without practice.
    - [Free code camp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1) A detailed course where you simultaneously markup and style based on a single cohesive project. Complete if you want to practice alongside theory. The first 10 steps are only markup, then CSS starts.
 
-2. Learn shorthads for [CSS Emmet](https://docs.emmet.io/css-abbreviations/). 
+2. Learn shorthands for [CSS Emmet](https://docs.emmet.io/css-abbreviations/). 
 
-3. Connect `[normalize.css](https://necolas.github.io/normalize.css/)` to your project as a separate file. 
+3. Connect [normalize.css](https://necolas.github.io/normalize.css/) to your project as a separate file, use <link> tag in <head>.
 
 4. Add fonts using [Google Fonts](https://fonts.google.com/).
 
@@ -22,10 +22,8 @@
    Write basic styles for the marked-up blocks of the layout using Emmet right away.
       - font-*: font type / font weight / font size 
       - text properties: letter spacing / text align / text decoration / line height
-      - Text color
-      - Background color
-
-   Optional styles:
+      - text color
+      - background color
       - borders / border radius
       - list-style 
       - opacity  
@@ -39,17 +37,17 @@
 
 ## Courses
 
-**[Learn Color Design on Codecademy](https://www.codecademy.com/learn/learn-color-design)**: A course on color design, providing in-depth knowledge of color theory, its impact on design, and best practices for using color in web development (eng).
+**[Learn Color Design on Codecademy](https://www.codecademy.com/learn/learn-color-design)**: A course on color design, providing in-depth knowledge of color theory, its impact on design, and best practices for using color in web development.
 
-**[Learn CSS: Colors on Codecademy](https://www.codecademy.com/learn/learn-css-colors)**: A course specializing in using colors in CSS. Students learn various ways to define colors and apply them to web page elements (eng).
+**[Learn CSS: Colors on Codecademy](https://www.codecademy.com/learn/learn-css-colors)**: A course specializing in using colors in CSS. Students learn various ways to define colors and apply them to web page elements.
 
-**[Learn CSS: Typography and Fonts on Codecademy](https://www.codecademy.com/learn/learn-css-typography-and-fonts)**: This course focuses on typography and fonts in CSS, teaching how to improve the readability and visual style of content on web pages (eng).
+**[Learn CSS: Typography and Fonts on Codecademy](https://www.codecademy.com/learn/learn-css-typography-and-fonts)**: This course focuses on typography and fonts in CSS, teaching how to improve the readability and visual style of content on web pages.
 
-**[Learn HTML: Tables on Codecademy](https://www.codecademy.com/learn/learn-html-tables)**: A course dedicated to creating and styling tables in HTML. Participants learn how to structure tabular data for users and search engines (eng).
+**[Learn HTML: Tables on Codecademy](https://www.codecademy.com/learn/learn-html-tables)**: A course dedicated to creating and styling tables in HTML. Participants learn how to structure tabular data for users and search engines.
 
-**[Learn CSS: Introduction on Codecademy](https://www.codecademy.com/learn/learn-css-introduction)**: An introductory course on CSS, offering the basics of cascading style sheets, including selectors, units of measurement, and how they are applied to style HTML elements (eng).
+**[Learn CSS: Introduction on Codecademy](https://www.codecademy.com/learn/learn-css-introduction)**: An introductory course on CSS, offering the basics of cascading style sheets, including selectors, units of measurement, and how they are applied to style HTML elements.
 
-**[Learn CSS on Codecademy](https://www.codecademy.com/learn/learn-css)**: A comprehensive course on CSS, covering everything from basic principles to advanced topics like animation, flexbox, and grid layouts. This course is designed for developers of all levels looking to deepen their understanding and improve their skills in creating web styles (eng).
+**[Learn CSS on Codecademy](https://www.codecademy.com/learn/learn-css)**: A comprehensive course on CSS, covering everything from basic principles to advanced topics like animation, flexbox, and grid layouts. This course is designed for developers of all levels looking to deepen their understanding and improve their skills in creating web styles.
 
 ### Games
 
@@ -59,249 +57,273 @@
 
 # Additional Materials
 
-🔵 **[The Importance of Learning CSS](https://www.joshwcomeau.com/css/the-importance-of-learning-css/)**: Josh Comeau discusses why learning CSS is a crucial point in a web developer's professional growth, highlighting the uniqueness and power of CSS in creating web design (eng).
+🔵 **[The Importance of Learning CSS](https://www.joshwcomeau.com/css/the-importance-of-learning-css/)**: Josh Comeau discusses why learning CSS is a crucial point in a web developer's professional growth, highlighting the uniqueness and power of CSS in creating web design.
 
-🟢 **[The Best Way to Learn CSS](https://webdesign.tutsplus.com/the-best-way-to-learn-css--webdesign-11906t)**: Recommendations and tips on effective methods and resources for learning CSS, from practice to theory (eng).
+🟢 **[The Best Way to Learn CSS](https://webdesign.tutsplus.com/the-best-way-to-learn-css--webdesign-11906t)**: Recommendations and tips on effective methods and resources for learning CSS, from practice to theory.
 
-🟢 **[How to Learn CSS: A Comprehensive Guide](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)**: An extensive guide from Smashing Magazine offering strategies, resources, and advice for beginners in learning CSS (eng).
+🟢 **[How to Learn CSS: A Comprehensive Guide](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)**: An extensive guide from Smashing Magazine offering strategies, resources, and advice for beginners in learning CSS.
 
-🔵 **[The Secret Weapon to Learning CSS](https://css-tricks.com/the-secret-weapon-to-learning-css/)**: Get acquainted with the "secret weapon" from CSS-Tricks for learning CSS and effective learning methods (eng).
+🔵 **[The Secret Weapon to Learning CSS](https://css-tricks.com/the-secret-weapon-to-learning-css/)**: Get acquainted with the "secret weapon" from CSS-Tricks for learning CSS and effective learning methods.
 
-🔵 **[The CSS Mindset](https://mxb.dev/blog/the-css-mindset/)**: An article discussing the specific approach to CSS development and the mindset necessary for successful work with CSS (eng).
+🔵 **[The CSS Mindset](https://mxb.dev/blog/the-css-mindset/)**: An article discussing the specific approach to CSS development and the mindset necessary for successful work with CSS.
 
-🟢 **[The Difference Between HTML and CSS](https://www.scaler.com/topics/difference-between-html-and-css/)**: An analysis of the differences between HTML and CSS, explaining the role of each in the web page creation process (eng).
+🟢 **[The Difference Between HTML and CSS](https://www.scaler.com/topics/difference-between-html-and-css/)**: An analysis of the differences between HTML and CSS, explaining the role of each in the web page creation process.
 
-🟢 **[CSS Best Practice](https://www.slideshare.net/maxdesign/css-best-practice)**: A presentation with best CSS practices, including approaches to organizing and optimizing code (eng).
+🟢 **[CSS Best Practice](https://www.slideshare.net/maxdesign/css-best-practice)**: A presentation with best CSS practices, including approaches to organizing and optimizing code.
+
+## How to use Figma with CSS styles 🟢 
+
+**[Figma for Developers: How to Work with a Design File](https://www.frontendmentor.io/articles/figma-for-developers-how-to-work-with-a-design-file-m6CZKZ1rC1)**: Frontend Mentor provides a guide on how developers can effectively collaborate using Figma, including tips on navigating and extracting assets from design files.
+
+**[Figma for Developers | Figma Tutorial (2022)](https://www.youtube.com/watch?v=fZ-OU_7aBv4)**: A YouTube tutorial offering a comprehensive walkthrough on how developers can utilize Figma, covering essential features and workflows.
+
+**[Guide to Dev Mode](https://help.figma.com/hc/en-us/articles/15023124644247-Guide-to-Dev-Mode)**: Figma Help Center article explaining Dev Mode, a feature designed to streamline collaboration between designers and developers by providing necessary tools and information.
+
+**[Explore Text Properties](https://help.figma.com/hc/en-us/articles/360039956634-Explore-text-properties)**: This article details the various text properties available in Figma, helping users understand how to style and adjust text elements within their designs.
+
+**[Color Models in Figma Design](https://help.figma.com/hc/en-us/articles/360043042113-Color-models-in-Figma-design)**: Figma Help Center explains the different color models supported in Figma, such as RGB, HEX, and HSL, and how to use them in your designs.
+
+**[Adjust the Properties of an Image](https://help.figma.com/hc/en-us/articles/360041098433-Adjust-the-properties-of-an-image)**: A guide on how to modify image properties in Figma, including adjustments to dimensions, exposure, contrast, and more.
+
+**[View and Adjust Colors in a Mixed Selection](https://help.figma.com/hc/en-us/articles/360042553434-View-and-adjust-colors-in-a-mixed-selection)**: This article covers how to manage and edit colors when working with multiple selected objects in Figma, ensuring consistency and accuracy.
+
+**[Adjust Corner Radius and Smoothing](https://help.figma.com/hc/en-us/articles/360050986854-Adjust-corner-radius-and-smoothing)**: Instructions on how to customize corner radii and smoothing for shapes in Figma, allowing for precise control over the appearance of rounded edges.
+
+**[Add Fills to Text and Shape Layers](https://help.figma.com/hc/en-us/articles/360040623954-Add-fills-to-text-and-shape-layers)**: This article explains how to apply fill colors to text and shape layers in Figma, enhancing the visual appeal of your designs.
+
+**[How to Inspect and Get Code from Figma Design Files](https://www.youtube.com/watch?v=184wrgSS_zU)**: A YouTube video tutorial on how to inspect design elements and extract code snippets from Figma, aimed at developers working on front-end implementation.
+
+**[Free Alternative for Figma Dev Mode or Zeplin](https://pxcode.medium.com/free-alternative-for-figma-dev-mode-or-zeplin-4307fb370026)**: A Medium article discussing free alternatives to Figma's Dev Mode and Zeplin for developers looking to collaborate with designers without incurring additional costs.
 
 ## Connecting Styles
 
-🟢 **[CSS Tutorial](https://devdojo.com/guide/css/how-to-use)**: A tutorial on CSS, offering basic knowledge and practical skills for using CSS to style web pages (eng).
+🟢 **[CSS Tutorial](https://devdojo.com/guide/css/how-to-use)**: A tutorial on CSS, offering basic knowledge and practical skills for using CSS to style web pages.
 
-🔵 **[Types of CSS](https://hackr.io/blog/types-of-css)**: An overview of different types of CSS, including external, internal, and inline styles, and their application in web development (eng).
+🔵 **[Types of CSS](https://hackr.io/blog/types-of-css)**: An overview of different types of CSS, including external, internal, and inline styles, and their application in web development.
 
-🟢 **[How to Add CSS to HTML](https://www.scaler.com/topics/html/add-css-to-html/)**: A tutorial showing how to integrate CSS into HTML documents to create stylish web pages (eng).
+🟢 **[How to Add CSS to HTML](https://www.scaler.com/topics/html/add-css-to-html/)**: A tutorial showing how to integrate CSS into HTML documents to create stylish web pages.
 
-🔵 **[The `<style>` Tag in HTML](https://www.scaler.com/topics/html/style-tag-in-html/)**: An overview of using the `<style>` tag to add internal styles directly in HTML documents (eng).
+🔵 **[The `<style>` Tag in HTML](https://www.scaler.com/topics/html/style-tag-in-html/)**: An overview of using the `<style>` tag to add internal styles directly in HTML documents.
 
-🔵 **[Using External CSS in HTML](https://www.scaler.com/topics/external-css-in-html/)**: A guide on connecting external style sheets to HTML documents, improving code organization and scalability (eng).
+🔵 **[Using External CSS in HTML](https://www.scaler.com/topics/external-css-in-html/)**: A guide on connecting external style sheets to HTML documents, improving code organization and scalability.
 
-🔵 **[Inline Styles in HTML: Defining Styles Inside Elements](https://www.scaler.com/topics/which-html-attribut-is-used-to-define-inline-styles/)**: A discussion on the use of inline styles in HTML and why it is often preferable to choose other styling methods (eng).
+🔵 **[Inline Styles in HTML: Defining Styles Inside Elements](https://www.scaler.com/topics/which-html-attribut-is-used-to-define-inline-styles/)**: A discussion on the use of inline styles in HTML and why it is often preferable to choose other styling methods.
 
-🔵 **[The `style` Attribute in HTML](https://www.scaler.com/topics/style-attribute-in-html/)**: An overview of the `style` attribute for directly applying CSS styles to individual HTML elements (eng).
+🔵 **[The `style` Attribute in HTML](https://www.scaler.com/topics/style-attribute-in-html/)**: An overview of the `style` attribute for directly applying CSS styles to individual HTML elements.
 
-🔵 **[Inline CSS: Styling Individual HTML Elements](https://www.scaler.com/topics/inline-css/)**: A detailed explanation of how and when to use inline styles for setting the appearance of specific elements on a web page (eng).
+🔵 **[Inline CSS: Styling Individual HTML Elements](https://www.scaler.com/topics/inline-css/)**: A detailed explanation of how and when to use inline styles for setting the appearance of specific elements on a web page.
 
 ## Normalization
 
-🟢 **[Default Browser Styles](https://www.w3schools.com/cssref/css_default_values.php)**: W3Schools offers an overview of default styles for various HTML elements in browsers, helping to understand which styles are applied to elements by default (eng).
+🟢 **[Default Browser Styles](https://www.w3schools.com/cssref/css_default_values.php)**: W3Schools offers an overview of default styles for various HTML elements in browsers, helping to understand which styles are applied to elements by default.
 
-🔵 **[Body Margin 8px: The Origin Story](https://www.miriamsuzanne.com/2022/07/04/body-margin-8px/)**: An interesting article about the origin of the standard 8px margin for the body tag and its impact on web page styling (eng).
+🔵 **[Body Margin 8px: The Origin Story](https://www.miriamsuzanne.com/2022/07/04/body-margin-8px/)**: An interesting article about the origin of the standard 8px margin for the body tag and its impact on web page styling.
 
-🔵 **[Normalize.css GitHub Page](https://github.com/necolas/normalize.css/)**: The official page of the Normalize.css project on GitHub, where you can download the latest version of the library and read the documentation (eng).
+🔵 **[Normalize.css GitHub Page](https://github.com/necolas/normalize.css/)**: The official page of the Normalize.css project on GitHub, where you can download the latest version of the library and read the documentation.
 
-🔵 **[CSS Reset on SlideShare](https://www.slideshare.net/maxdesign/css-reset)**: A presentation reviewing different ways to reset default browser styles to achieve a more predictable styling result (eng).
+🔵 **[CSS Reset on SlideShare](https://www.slideshare.net/maxdesign/css-reset)**: A presentation reviewing different ways to reset default browser styles to achieve a more predictable styling result.
 
-🔵 **[My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)**: Josh Comeau shares his approach to creating a custom CSS Reset, providing a stable foundation for starting website development and improving cross-browser compatibility (eng).
+🔵 **[My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)**: Josh Comeau shares his approach to creating a custom CSS Reset, providing a stable foundation for starting website development and improving cross-browser compatibility.
 
 ## References
 
-🔵 **[CSS Reference on Codrops](https://tympanus.net/codrops/css_reference/)**: An extensive and detailed CSS reference guide offering explanations and examples of various CSS properties and selectors. A great resource for in-depth understanding and experimentation with CSS (eng).
+🔵 **[CSS Reference on Codrops](https://tympanus.net/codrops/css_reference/)**: An extensive and detailed CSS reference guide offering explanations and examples of various CSS properties and selectors. A great resource for in-depth understanding and experimentation with CSS.
 
-🟢 **[CSS Almanac on CSS-Tricks](https://css-tricks.com/almanac/)**: A CSS reference from CSS-Tricks offering detailed articles on properties, selectors, and other CSS features. Includes code examples and practical advice (eng).
+🟢 **[CSS Almanac on CSS-Tricks](https://css-tricks.com/almanac/)**: A CSS reference from CSS-Tricks offering detailed articles on properties, selectors, and other CSS features. Includes code examples and practical advice.
 
-🟢 **[CSS Reference](http://cssreference.io/)**: A visual guide to CSS, providing interactive examples and detailed descriptions of most CSS properties from `align-content` to `z-index` (eng).
+🟢 **[CSS Reference](http://cssreference.io/)**: A visual guide to CSS, providing interactive examples and detailed descriptions of most CSS properties from `align-content` to `z-index`.
 
-🔵 **[List of All CSS Properties on Web4College](https://www.web4college.com/css-play/)**: A complete list of CSS properties presented in an easy-to-review format. Helps quickly find necessary properties and learn about new ones (eng).
+🔵 **[List of All CSS Properties on Web4College](https://www.web4college.com/css-play/)**: A complete list of CSS properties presented in an easy-to-review format. Helps quickly find necessary properties and learn about new ones.
 
-🔵 **[CSS Guidelines](https://cssguidelin.es/)**: Tips and recommendations for writing clean, sustainable, and easily maintainable CSS code. Offers best practices and coding standards for professionals (eng).
+🔵 **[CSS Guidelines](https://cssguidelin.es/)**: Tips and recommendations for writing clean, sustainable, and easily maintainable CSS code. Offers best practices and coding standards for professionals.
 
-🔵 **[CSS Reference](https://cssreference.io/)**: This site has already been mentioned above, but it is worth repeating that it is an excellent resource for learning and understanding CSS properties through visual examples and demonstrations (eng).
+🔵 **[CSS Reference](https://cssreference.io/)**: This site has already been mentioned above, but it is worth repeating that it is an excellent resource for learning and understanding CSS properties through visual examples and demonstrations.
 
-🔵 **[CSS Docs on Codecademy](https://www.codecademy.com/resources/docs/css)**: CSS documentation from Codecademy, offering an overview of key concepts, properties, and selectors. Useful for both beginners and experienced developers (eng).
+🔵 **[CSS Docs on Codecademy](https://www.codecademy.com/resources/docs/css)**: CSS documentation from Codecademy, offering an overview of key concepts, properties, and selectors. Useful for both beginners and experienced developers.
 
-🔵 **[Learn CSS by Example with CSS Reference on Tuts+](https://webdesign.tutsplus.com/learn-css-by-example-with-css-reference--cms-28390t)**: A guide that teaches CSS through practical examples using a reference. Helps quickly master new properties and layout techniques (eng).
+🔵 **[Learn CSS by Example with CSS Reference on Tuts+](https://webdesign.tutsplus.com/learn-css-by-example-with-css-reference--cms-28390t)**: A guide that teaches CSS through practical examples using a reference. Helps quickly master new properties and layout techniques.
 
 ## Selectors
 
-🔵 **[CSS Syntax on DevDojo](https://devdojo.com/guide/css/syntax)**: This guide offers an overview of CSS syntax, teaching the basics of structure and styling rules. It's a great starting resource for those just beginning to learn CSS (eng).
+🔵 **[CSS Syntax on DevDojo](https://devdojo.com/guide/css/syntax)**: This guide offers an overview of CSS syntax, teaching the basics of structure and styling rules. It's a great starting resource for those just beginning to learn CSS.
 
-🔵 **[Understanding the CSS Property Value Syntax on Smashing Magazine](https://www.smashingmagazine.com/2016/05/understanding-the-css-property-value-syntax/)**: A deep dive into the syntax of CSS property values. The article explains how to interpret and use different types of values found in CSS, improving the understanding of the language's nuances (eng).
+🔵 **[Understanding the CSS Property Value Syntax on Smashing Magazine](https://www.smashingmagazine.com/2016/05/understanding-the-css-property-value-syntax/)**: A deep dive into the syntax of CSS property values. The article explains how to interpret and use different types of values found in CSS, improving the understanding of the language's nuances.
 
-🔵 **[Make the Most of CSS Attribute Selectors](https://webdesign.tutsplus.com/quick-tip-make-the-most-of-css-attribute-selectors--webdesign-10420a)**: Practical tips on how to make the most of attribute selectors in CSS to refine element styles based on their attributes (eng).
+🔵 **[Make the Most of CSS Attribute Selectors](https://webdesign.tutsplus.com/quick-tip-make-the-most-of-css-attribute-selectors--webdesign-10420a)**: Practical tips on how to make the most of attribute selectors in CSS to refine element styles based on their attributes.
 
-🔵 **[Attribute Selectors: Splicing HTML DNA with CSS](https://www.smashingmagazine.com/2018/10/attribute-selectors-splicing-html-dna-css/)**: A deep dive into the world of CSS attribute selectors, revealing their possibilities and usage examples (eng).
+🔵 **[Attribute Selectors: Splicing HTML DNA with CSS](https://www.smashingmagazine.com/2018/10/attribute-selectors-splicing-html-dna-css/)**: A deep dive into the world of CSS attribute selectors, revealing their possibilities and usage examples.
 
-🔵 **[Styling External Links with Attribute Selectors](https://css-irl.info/styling-external-links-with-attribute-selectors/)**: A guide on styling external links using attribute selectors, enhancing the user interface (eng).
+🔵 **[Styling External Links with Attribute Selectors](https://css-irl.info/styling-external-links-with-attribute-selectors/)**: A guide on styling external links using attribute selectors, enhancing the user interface.
 
-🟢 **[Learn CSS Fundamentals Combinators](https://www.slideshare.net/inarocket/11-learn-css-fundamentals-combinators)**: A presentation explaining how CSS combinator selectors work, allowing the construction of complex selectors based on relationships between elements (eng).
+🟢 **[Learn CSS Fundamentals Combinators](https://www.slideshare.net/inarocket/11-learn-css-fundamentals-combinators)**: A presentation explaining how CSS combinator selectors work, allowing the construction of complex selectors based on relationships between elements.
 
-🔵 **[Semantic CSS with Intelligent Selectors](https://www.smashingmagazine.com/2013/08/semantic-css-with-intelligent-selectors/)**: Learning to use semantic selectors to improve CSS structure and simplify code maintenance (eng).
+🔵 **[Semantic CSS with Intelligent Selectors](https://www.smashingmagazine.com/2013/08/semantic-css-with-intelligent-selectors/)**: Learning to use semantic selectors to improve CSS structure and simplify code maintenance.
 
-🟢 **[Syntax and Selectors Cheatsheets](https://www.codecademy.com/learn/learn-css-introduction/modules/syntax-and-selectors/cheatsheet)**: A cheat sheet on CSS syntax and selectors from Codecademy, providing quick access to key concepts (eng).
+🟢 **[Syntax and Selectors Cheatsheets](https://www.codecademy.com/learn/learn-css-introduction/modules/syntax-and-selectors/cheatsheet)**: A cheat sheet on CSS syntax and selectors from Codecademy, providing quick access to key concepts.
 
-🔵 **[Powerful CSS Selectors and How to Use Them](https://www.atatus.com/blog/powerful-css-selectors/)**: An overview of powerful CSS selectors and tips on their effective use for creating dynamic and interactive web pages (eng).
+🔵 **[Powerful CSS Selectors and How to Use Them](https://www.atatus.com/blog/powerful-css-selectors/)**: An overview of powerful CSS selectors and tips on their effective use for creating dynamic and interactive web pages.
 
-🔵 **[Basic CSS Selectors Explained with Cats](https://frontender.info/basic-css-selectors-explained-with-cats)**: A clear explanation of basic CSS selectors using cat examples, making learning CSS more fun and accessible (eng).
+🔵 **[Basic CSS Selectors Explained with Cats](https://frontender.info/basic-css-selectors-explained-with-cats)**: A clear explanation of basic CSS selectors using cat examples, making learning CSS more fun and accessible.
 
-🔵 **[The Truth About CSS Selector Performance](https://css-tricks.com/the-truth-about-css-selector-performance/)**: An article on CSS-Tricks examining the performance of various CSS selectors and offering optimization recommendations (eng).
+🔵 **[The Truth About CSS Selector Performance](https://css-tricks.com/the-truth-about-css-selector-performance/)**: An article on CSS-Tricks examining the performance of various CSS selectors and offering optimization recommendations.
 
-🔵 **[Recommended Order of Writing Styles](http://russmaxdesign.github.io/html-css-tests/sample-format/css-declaration.htm)**: Tips for organizing CSS code, including recommendations on the order of properties, which helps keep the code clean and organized (eng).
+🔵 **[Recommended Order of Writing Styles](http://russmaxdesign.github.io/html-css-tests/sample-format/css-declaration.htm)**: Tips for organizing CSS code, including recommendations on the order of properties, which helps keep the code clean and organized.
 
 ### Specificity
 
-🟢 **[Understanding Specificity in CSS on matuzo.at](https://www.matuzo.at/blog/2022/specificity/)**: A deep understanding of the concept of specificity in CSS. The article details how style priority is determined and its impact on cascading CSS rules (eng).
+🟢 **[Understanding Specificity in CSS on matuzo.at](https://www.matuzo.at/blog/2022/specificity/)**: A deep understanding of the concept of specificity in CSS. The article details how style priority is determined and its impact on cascading CSS rules.
 
-🔵 **[Understanding CSS Specificity on Tuts+](https://webdesign.tutsplus.com/understanding-css-specificity--CRS-201051c)**: A detailed explanation of selector specificity in CSS, illustrating how rules determine which styles will be applied to an element (eng).
+🔵 **[Understanding CSS Specificity on Tuts+](https://webdesign.tutsplus.com/understanding-css-specificity--CRS-201051c)**: A detailed explanation of selector specificity in CSS, illustrating how rules determine which styles will be applied to an element.
 
-🔵 **[What Is CSS Specificity? on Tuts+](https://webdesign.tutsplus.com/what-is-css-specificity--cms-34141t)**: A brief introduction to the concept of specificity in CSS, providing basic information on how styles are applied based on selector weight (eng).
+🔵 **[What Is CSS Specificity? on Tuts+](https://webdesign.tutsplus.com/what-is-css-specificity--cms-34141t)**: A brief introduction to the concept of specificity in CSS, providing basic information on how styles are applied based on selector weight.
 
 ### Inheritance
 
-🔵 **[CSS Inheritance, the Cascade, and Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/)**: This article on Smashing Magazine dives deep into the mechanisms of CSS inheritance and cascading, and their impact on global scope. Through thorough analysis, it shows how these concepts can be both your best friends and worst enemies in the development process (eng).
+🔵 **[CSS Inheritance, the Cascade, and Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/)**: This article on Smashing Magazine dives deep into the mechanisms of CSS inheritance and cascading, and their impact on global scope. Through thorough analysis, it shows how these concepts can be both your best friends and worst enemies in the development process.
 
-🔵 **[More About Inheritance on SlideShare by inarocket](https://www.slideshare.net/inarocket/14-learn-css-fundamentals-inheritance)**: A presentation presenting the basic principles of inheritance in CSS, explaining how properties are passed from parent elements to child elements. This is crucial for understanding how to build effective and maintainable styles (eng).
+🔵 **[More About Inheritance on SlideShare by inarocket](https://www.slideshare.net/inarocket/14-learn-css-fundamentals-inheritance)**: A presentation presenting the basic principles of inheritance in CSS, explaining how properties are passed from parent elements to child elements. This is crucial for understanding how to build effective and maintainable styles.
 
-🔵 **[CSS Inheritance Presentation on SlideShare by anuradhay_2004](https://www.slideshare.net/anuradhay_2004/css-inheritance)**: Another helpful presentation dedicated to inheritance in CSS. It details how various CSS properties behave when inherited and how this knowledge can be used to optimize your styles (eng).
+🔵 **[CSS Inheritance Presentation on SlideShare by anuradhay_2004](https://www.slideshare.net/anuradhay_2004/css-inheritance)**: Another helpful presentation dedicated to inheritance in CSS. It details how various CSS properties behave when inherited and how this knowledge can be used to optimize your styles.
 
-🟢 **[Understanding CSS Inheritance: `inherit`, `initial`, `unset`, and `revert` Keywords](https://webdesign.tutsplus.com/understanding-css-inheritance-inherit-initial-unset-and-revert-keywords--cms-34233t)**: This article on Tuts+ explains the concepts of inheritance in CSS and introduces the keywords `inherit`, `initial`, `unset`, and `revert`. Knowing these keywords extends the ability to manage inheritance and allows for more precise style adjustments (eng).
+🟢 **[Understanding CSS Inheritance: `inherit`, `initial`, `unset`, and `revert` Keywords](https://webdesign.tutsplus.com/understanding-css-inheritance-inherit-initial-unset-and-revert-keywords--cms-34233t)**: This article on Tuts+ explains the concepts of inheritance in CSS and introduces the keywords `inherit`, `initial`, `unset`, and `revert`. Knowing these keywords extends the ability to manage inheritance and allows for more precise style adjustments.
 
 ### Properties
 
-🔵 **[CSS Borders on DevDojo](https://devdojo.com/guide/css/borders)**: The basics of using borders in CSS, including various styles, thicknesses, and colors. Ideal for creating separators, element frames, and other decorative effects (eng).
+🔵 **[CSS Borders on DevDojo](https://devdojo.com/guide/css/borders)**: The basics of using borders in CSS, including various styles, thicknesses, and colors. Ideal for creating separators, element frames, and other decorative effects.
 
-🟢 **[CSS Counters on iShadeed](https://ishadeed.com/article/css-counters)**: A guide to using CSS counters for numbering elements, useful for creating ordered lists without using the `<ol>` tag (eng).
+🟢 **[CSS Counters on iShadeed](https://ishadeed.com/article/css-counters)**: A guide to using CSS counters for numbering elements, useful for creating ordered lists without using the `<ol>` tag.
 
-🔵 **[CSS Lists, Markers, and Counters on Smashing Magazine](https://www.smashingmagazine.com/2019/07/css-lists-markers-counters/)**: A detailed study of markers and counters in CSS lists, providing a deep understanding of working with markers and customizing lists (eng).
+🔵 **[CSS Lists, Markers, and Counters on Smashing Magazine](https://www.smashingmagazine.com/2019/07/css-lists-markers-counters/)**: A detailed study of markers and counters in CSS lists, providing a deep understanding of working with markers and customizing lists.
 
-🟢 **[Shorthand Properties in CSS on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties)**: An overview and examples of using shorthand properties in CSS, which help simplify and reduce the volume of code (eng).
+🟢 **[Shorthand Properties in CSS on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties)**: An overview and examples of using shorthand properties in CSS, which help simplify and reduce the volume of code.
 
-🔵 **[Detailed Analysis of `line-height` on SlideShare by maxdesign](https://www.slideshare.net/maxdesign/line-height)**: A detailed analysis of how the `line-height` property works and its impact on vertical alignment of text (eng).
+🔵 **[Detailed Analysis of `line-height` on SlideShare by maxdesign](https://www.slideshare.net/maxdesign/line-height)**: A detailed analysis of how the `line-height` property works and its impact on vertical alignment of text.
 
-🔵 **[Deep Dive into the `contain` Property](https://css-tricks.com/lets-take-a-deep-dive-into-the-css-contain-property/)**: Explanation and examples of using the `contain` property, which helps optimize page rendering (eng).
+🔵 **[Deep Dive into the `contain` Property](https://css-tricks.com/lets-take-a-deep-dive-into-the-css-contain-property/)**: Explanation and examples of using the `contain` property, which helps optimize page rendering.
 
-🔵 **[How to Tame Line Height in CSS](https://css-tricks.com/how-to-tame-line-height-in-css/)**: A guide to controlling line height in CSS, which is crucial for creating ideal text content (eng).
+🔵 **[How to Tame Line Height in CSS](https://css-tricks.com/how-to-tame-line-height-in-css/)**: A guide to controlling line height in CSS, which is crucial for creating ideal text content.
 
-🟢 **[The Hidden Power of `text-align`](https://ishadeed.com/article/the-hidden-power-text-align)**: Examining various aspects of the `text-align` property and its application beyond text alignment (eng).
+🟢 **[The Hidden Power of `text-align`](https://ishadeed.com/article/the-hidden-power-text-align)**: Examining various aspects of the `text-align` property and its application beyond text alignment.
 
 ### Working with Text
 
-🔵 **[Better CSS Drop Caps with `initial-letter`](https://webdesign.tutsplus.com/better-css-drop-caps-with-initial-letter--cms-26350t)**: Learn how to use the `initial-letter` property in CSS to create stylish large initial letters in text, adding elegance and emphasis to the beginning of paragraphs (eng).
+🔵 **[Better CSS Drop Caps with `initial-letter`](https://webdesign.tutsplus.com/better-css-drop-caps-with-initial-letter--cms-26350t)**: Learn how to use the `initial-letter` property in CSS to create stylish large initial letters in text, adding elegance and emphasis to the beginning of paragraphs.
 
-🔵 **[Balancing Text Wrap in CSS on iShadeed](https://ishadeed.com/article/css-text-wrap-balance)**: Methods and techniques for balancing text wrap in CSS, contributing to a more pleasant visual perception of text blocks (eng).
+🔵 **[Balancing Text Wrap in CSS on iShadeed](https://ishadeed.com/article/css-text-wrap-balance)**: Methods and techniques for balancing text wrap in CSS, contributing to a more pleasant visual perception of text blocks.
 
-🟢 **[Learn CSS Typography: Fonts, Sizes, Spacing, and More on Tuts+](https://webdesign.tutsplus.com/start-here-learn-css-typography--CRS-200512c)**: An introductory guide to typography in CSS, covering working with fonts, sizes, line heights, and other important aspects of text styling (eng).
+🟢 **[Learn CSS Typography: Fonts, Sizes, Spacing, and More on Tuts+](https://webdesign.tutsplus.com/start-here-learn-css-typography--CRS-200512c)**: An introductory guide to typography in CSS, covering working with fonts, sizes, line heights, and other important aspects of text styling.
 
-🔵 **[Applying CSS Word Wrap, Overflow Wrap, and Word Break on Atatus](https://www.atatus.com/blog/applying-css-word-wrap-overflow-wrap-word-break)**: An overview of CSS properties for managing word wrapping and text overflow, helping maintain neat and readable content under any conditions (eng).
+🔵 **[Applying CSS Word Wrap, Overflow Wrap, and Word Break on Atatus](https://www.atatus.com/blog/applying-css-word-wrap-overflow-wrap-word-break)**: An overview of CSS properties for managing word wrapping and text overflow, helping maintain neat and readable content under any conditions.
 
 ## Colors
 
-🟢 **[HTML Link Color on Scaler](https://www.scaler.com/topics/html-link-color/)**: An article on how to customize the color of links in HTML and CSS, providing useful tips for creating attractive and readable link text (eng).
+🟢 **[HTML Link Color on Scaler](https://www.scaler.com/topics/html-link-color/)**: An article on how to customize the color of links in HTML and CSS, providing useful tips for creating attractive and readable link text.
 
-🔵 **[CSS `::caret-color` on SamanthaMing](https://www.samanthaming.com/tidbits/31-css-caret-color/)**: A discussion on the `caret-color` property in CSS, which allows changing the cursor (caret) color in input fields, enhancing the user interface and adaptation to the site style (eng).
+🔵 **[CSS `::caret-color` on SamanthaMing](https://www.samanthaming.com/tidbits/31-css-caret-color/)**: A discussion on the `caret-color` property in CSS, which allows changing the cursor (caret) color in input fields, enhancing the user interface and adaptation to the site style.
 
-🟢 **[CSS Colors: A Comprehensive Guide on iShadeed](https://ishadeed.com/article/css-color)**: A comprehensive guide to colors in CSS, explaining various color formats and how they can be used for web page styling (eng).
+🟢 **[CSS Colors: A Comprehensive Guide on iShadeed](https://ishadeed.com/article/css-color)**: A comprehensive guide to colors in CSS, explaining various color formats and how they can be used for web page styling.
 
-🔵 **[Nerd's Guide to Color on the Web on CSS-Tricks](https://css-tricks.com/nerds-guide-color-web/)**: An in-depth analysis of using color in web design, offering tips on choosing and combining colors to create a harmonious interface (eng).
+🔵 **[Nerd's Guide to Color on the Web on CSS-Tricks](https://css-tricks.com/nerds-guide-color-web/)**: An in-depth analysis of using color in web design, offering tips on choosing and combining colors to create a harmonious interface.
 
-🔵 **[Colors Cheatsheets on Codecademy](https://www.codecademy.com/learn/learn-css-colors/modules/css-colors/cheatsheet)**: A cheat sheet on colors in CSS, providing quick access to key concepts and properties for working with color (eng).
+🔵 **[Colors Cheatsheets on Codecademy](https://www.codecademy.com/learn/learn-css-colors/modules/css-colors/cheatsheet)**: A cheat sheet on colors in CSS, providing quick access to key concepts and properties for working with color.
 
-🔵 **[Color Formats in CSS on JoshWComeau](https://www.joshwcomeau.com/css/color-formats/)**: A detailed overview of color formats in CSS, explaining how and when to use each of them for the best results in design (eng).
+🔵 **[Color Formats in CSS on JoshWComeau](https://www.joshwcomeau.com/css/color-formats/)**: A detailed overview of color formats in CSS, explaining how and when to use each of them for the best results in design.
 
-🔵 **[A Guide to Modern CSS Colors on Smashing Magazine](https://www.smashingmagazine.com/2021/11/guide-modern-css-colors/)**: A modern guide to colors in CSS, covering the latest additions and methods for working with color, including CSS variables and functions (eng).
+🔵 **[A Guide to Modern CSS Colors on Smashing Magazine](https://www.smashingmagazine.com/2021/11/guide-modern-css-colors/)**: A modern guide to colors in CSS, covering the latest additions and methods for working with color, including CSS variables and functions.
 
-🔵 **[Learn CSS Colors and Backgrounds on Tuts+](https://webdesign.tutsplus.com/start-here-learn-css-colors-and-backgrounds--CRS-200563c)**: An educational guide on working with colors and backgrounds in CSS, providing knowledge for creating visually appealing web pages (eng).
+🔵 **[Learn CSS Colors and Backgrounds on Tuts+](https://webdesign.tutsplus.com/start-here-learn-css-colors-and-backgrounds--CRS-200563c)**: An educational guide on working with colors and backgrounds in CSS, providing knowledge for creating visually appealing web pages.
 
-🔵 **[More About Colors in CSS on HubSpot Blog](https://blog.hubspot.com/website/css-colors)**: A deep dive into using color in CSS, including tips on choosing and applying color schemes to your site. The article offers useful examples and explanations of how colors can affect user experience and the perception of your web design (eng).
+🔵 **[More About Colors in CSS on HubSpot Blog](https://blog.hubspot.com/website/css-colors)**: A deep dive into using color in CSS, including tips on choosing and applying color schemes to your site. The article offers useful examples and explanations of how colors can affect user experience and the perception of your web design.
 
-🔵 **[Complete List of Color Keywords in CSS on W3.org](https://www.w3.org/wiki/CSS/Properties/color/keywords)**: The official list of keywords representing colors in CSS provided by W3C. This resource offers a full range of color identifiers that can be used to quickly style elements without memorizing color codes (eng).
+🔵 **[Complete List of Color Keywords in CSS on W3.org](https://www.w3.org/wiki/CSS/Properties/color/keywords)**: The official list of keywords representing colors in CSS provided by W3C. This resource offers a full range of color identifiers that can be used to quickly style elements without memorizing color codes.
 
 ### HSL
 
-🔵 **[Color Schemes with HSL on web.dev](https://web.dev/patterns/theming/color-schemes?hl=en)**: A guide to creating color schemes using HSL (Hue, Saturation, Lightness) in CSS. This article offers approaches to theming websites and applications with examples of using HSL for flexible color customization (eng).
+🔵 **[Color Schemes with HSL on web.dev](https://web.dev/patterns/theming/color-schemes?hl=en)**: A guide to creating color schemes using HSL (Hue, Saturation, Lightness) in CSS. This article offers approaches to theming websites and applications with examples of using HSL for flexible color customization.
 
-🔵 **[Mastering HSL Colors in CSS on iShadeed](https://ishadeed.com/article/hsl-colors-css)**: A detailed study of HSL colors in CSS, explaining the advantages of using HSL to create intuitive and easily customizable color schemes (eng).
+🔵 **[Mastering HSL Colors in CSS on iShadeed](https://ishadeed.com/article/hsl-colors-css)**: A detailed study of HSL colors in CSS, explaining the advantages of using HSL to create intuitive and easily customizable color schemes.
 
-🔵 **[HSL Colors in CSS on Smashing Magazine](https://www.smashingmagazine.com/2021/07/hsl-colors-css/)**: An overview of using HSL in CSS, demonstrating how HSL simplifies working with color, providing a more flexible and accessible approach to styling (eng).
+🔵 **[HSL Colors in CSS on Smashing Magazine](https://www.smashingmagazine.com/2021/07/hsl-colors-css/)**: An overview of using HSL in CSS, demonstrating how HSL simplifies working with color, providing a more flexible and accessible approach to styling.
 
-🔵 **[Light and Dark HSL Starter Kit on web.dev](https://web.dev/patterns/theming/hsl-starter-kit?hl=en)**: A toolkit for creating light and dark themes using HSL in CSS. This resource provides a foundation for quickly starting a project with support for switching between dark and light modes using HSL to enhance visual perception and design adaptability (eng).
+🔵 **[Light and Dark HSL Starter Kit on web.dev](https://web.dev/patterns/theming/hsl-starter-kit?hl=en)**: A toolkit for creating light and dark themes using HSL in CSS. This resource provides a foundation for quickly starting a project with support for switching between dark and light modes using HSL to enhance visual perception and design adaptability.
 
 ### HEX
 
-🟢 **[Transparency Values for HEXA on Gist by lopspower](https://gist.github.com/lopspower/03fb1cc0ac9f32ef38f4)**: A handy resource presenting transparency values in HEX format (HEXA), which adds two additional characters to the traditional HEX color code to indicate the level of transparency. This list covers a wide range of values from full transparency to full opacity, making it easy to select the right transparency level for colors in your CSS styles (eng).
+🟢 **[Transparency Values for HEXA on Gist by lopspower](https://gist.github.com/lopspower/03fb1cc0ac9f32ef38f4)**: A handy resource presenting transparency values in HEX format (HEXA), which adds two additional characters to the traditional HEX color code to indicate the level of transparency. This list covers a wide range of values from full transparency to full opacity, making it easy to select the right transparency level for colors in your CSS styles.
 
 ### RGB
 
-🟢 **[The Power of RGBA in CSS on iShadeed](https://ishadeed.com/article/the-power-of-rgba)**: This article delves into the possibilities of using RGBA (Red, Green, Blue, Alpha) in CSS. It discusses how applying transparency through the alpha channel allows for more flexible and dynamic design solutions, including semi-transparent backgrounds, gradients, and shadows, improving user interaction with interface elements (eng).
+🟢 **[The Power of RGBA in CSS on iShadeed](https://ishadeed.com/article/the-power-of-rgba)**: This article delves into the possibilities of using RGBA (Red, Green, Blue, Alpha) in CSS. It discusses how applying transparency through the alpha channel allows for more flexible and dynamic design solutions, including semi-transparent backgrounds, gradients, and shadows, improving user interaction with interface elements.
 
 ### OKLCH
 
-🔵 **[OKLCH Color Spaces and Gamuts in CSS on Smashing Magazine](https://www.smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/)**: This article provides a deep understanding of OKLCH color spaces and their use in CSS for achieving more accurate and versatile color representation on web pages. It discusses the advantages of OKLCH over traditional models like RGB and HSL, including improved color perception and a wider color gamut (eng).
+🔵 **[OKLCH Color Spaces and Gamuts in CSS on Smashing Magazine](https://www.smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/)**: This article provides a deep understanding of OKLCH color spaces and their use in CSS for achieving more accurate and versatile color representation on web pages. It discusses the advantages of OKLCH over traditional models like RGB and HSL, including improved color perception and a wider color gamut.
 
-🔵 **[OKLCH in CSS: Why We Moved from RGB and HSL on Evil Martians](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)**: An overview of the reasons for transitioning from using RGB and HSL to OKLCH in CSS. The article discusses how OKLCH provides more intuitive and perception-oriented color management, allowing designers and developers to achieve more accurate and consistent color solutions in web design (eng).
+🔵 **[OKLCH in CSS: Why We Moved from RGB and HSL on Evil Martians](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)**: An overview of the reasons for transitioning from using RGB and HSL to OKLCH in CSS. The article discusses how OKLCH provides more intuitive and perception-oriented color management, allowing designers and developers to achieve more accurate and consistent color solutions in web design.
 
-🔵 **[OK, OKLCH: A Color Picker Made to Help Think Perceptively on Evil Martians](https://evilmartians.com/chronicles/oklch-a-color-picker-made-to-help-think-perceptively)**: Introducing a tool for selecting colors based on OKLCH, created to help with color perception. This tool offers a unique approach to color selection, emphasizing color perception, making it useful for designers and developers aiming to create accessible and visually appealing content (eng).
+🔵 **[OK, OKLCH: A Color Picker Made to Help Think Perceptively on Evil Martians](https://evilmartians.com/chronicles/oklch-a-color-picker-made-to-help-think-perceptively)**: Introducing a tool for selecting colors based on OKLCH, created to help with color perception. This tool offers a unique approach to color selection, emphasizing color perception, making it useful for designers and developers aiming to create accessible and visually appealing content.
 
 ### Tools
 
-🔵 **[Color Tools and Resources for CSS on Smashing Magazine](https://www.smashingmagazine.com/2021/07/color-tools-resources/)**: A comprehensive list of tools and resources for working with colors in CSS. This article reviews various online tools, libraries, and guides that help with color selection, creating color schemes, and converting color values, making the design process more convenient and efficient (eng).
+🔵 **[Color Tools and Resources for CSS on Smashing Magazine](https://www.smashingmagazine.com/2021/07/color-tools-resources/)**: A comprehensive list of tools and resources for working with colors in CSS. This article reviews various online tools, libraries, and guides that help with color selection, creating color schemes, and converting color values, making the design process more convenient and efficient.
 
-🔵 **[OKLCH Color Picker & Converter](https://oklch.com/#70,0.1,357,100)**: A tool for selecting and converting colors in the OKLCH format. It allows easy conversion of color values between different formats and selecting colors based on perception, which is especially useful when working with modern web technologies and design (eng).
+🔵 **[OKLCH Color Picker & Converter](https://oklch.com/#70,0.1,357,100)**: A tool for selecting and converting colors in the OKLCH format. It allows easy conversion of color values between different formats and selecting colors based on perception, which is especially useful when working with modern web technologies and design.
 
-🔵 **[Colord](https://colord.omgovich.ru/)**: A powerful color converter supporting many color schemes. Colord helps translate colors between different formats, such as HEX, RGB, HSL, OKLCH, and many others, facilitating the process of working with color in web development and design (eng).
+🔵 **[Colord](https://colord.omgovich.ru/)**: A powerful color converter supporting many color schemes. Colord helps translate colors between different formats, such as HEX, RGB, HSL, OKLCH, and many others, facilitating the process of working with color in web development and design.
 
 ## Units of Measurement
 
-🟢 **[Using Viewport Units in CSS on iShadeed](https://ishadeed.com/article/viewport-units)**: An explanation of the benefits of using viewport units in CSS to create designs perfectly adapted to the user's screen size. The article includes examples and best practices (eng).
+🟢 **[Using Viewport Units in CSS on iShadeed](https://ishadeed.com/article/viewport-units)**: An explanation of the benefits of using viewport units in CSS to create designs perfectly adapted to the user's screen size. The article includes examples and best practices.
 
-🟢 **[New Viewport Units in CSS on iShadeed](https://ishadeed.com/article/new-viewport-units)**: Introducing new viewport units proposed for CSS and their potential to improve the adaptability and flexibility of web design (eng).
+🟢 **[New Viewport Units in CSS on iShadeed](https://ishadeed.com/article/new-viewport-units)**: Introducing new viewport units proposed for CSS and their potential to improve the adaptability and flexibility of web design.
 
-🟢 **[CSS Absolute Units on Smashing Magazine](https://www.smashingmagazine.com/2021/07/css-absolute-units/)**: All about absolute units of measurement in CSS, their features, and situations where their use is most appropriate for precise element sizing control (eng).
+🟢 **[CSS Absolute Units on Smashing Magazine](https://www.smashingmagazine.com/2021/07/css-absolute-units/)**: All about absolute units of measurement in CSS, their features, and situations where their use is most appropriate for precise element sizing control.
 
-🔵 **[Making Things Better: Redefining the Technical Possibilities of CSS on Notist by Rachel Andrew](https://noti.st/rachelandrew/p5gKlm/making-things-better-redefining-the-technical-possibilities-of-css#sgccnoM)**: A presentation exploring how recent changes in CSS expand the technical possibilities for web developers, offering new methods for solving long-standing design and layout problems (eng).
+🔵 **[Making Things Better: Redefining the Technical Possibilities of CSS on Notist by Rachel Andrew](https://noti.st/rachelandrew/p5gKlm/making-things-better-redefining-the-technical-possibilities-of-css#sgccnoM)**: A presentation exploring how recent changes in CSS expand the technical possibilities for web developers, offering new methods for solving long-standing design and layout problems.
 
 ## Fonts
 
-🔵 **[Reduce Web Font Size on web.dev](https://web.dev/articles/reduce-webfont-size?hl=en)**: Strategies and practices for reducing web font sizes to speed up page loading and improve site performance (eng).
+🔵 **[Reduce Web Font Size on web.dev](https://web.dev/articles/reduce-webfont-size?hl=en)**: Strategies and practices for reducing web font sizes to speed up page loading and improve site performance.
 
-🔵 **[CSS Fonts and Text Effects on SharkCoder](https://sharkcoder.com/typography/fonts)**: A tutorial on how to set fonts and format text using CSS, including creating impressive text effects (eng).
+🔵 **[CSS Fonts and Text Effects on SharkCoder](https://sharkcoder.com/typography/fonts)**: A tutorial on how to set fonts and format text using CSS, including creating impressive text effects.
 
-🟢 **[A Comprehensive Guide to HTML Fonts and Web Fonts on Atatus](https://www.atatus.com/blog/a-comprehensive-guide-to-html-fonts-web-fonts/)**: A complete guide to using fonts in HTML and web fonts, covering the basics of working with fonts and integrating them into web design (eng).
+🟢 **[A Comprehensive Guide to HTML Fonts and Web Fonts on Atatus](https://www.atatus.com/blog/a-comprehensive-guide-to-html-fonts-web-fonts/)**: A complete guide to using fonts in HTML and web fonts, covering the basics of working with fonts and integrating them into web design.
 
-🔵 **[Variable Fonts in Real Life on Evil Martians](https://evilmartians.com/chronicles/variable-fonts-in-real-life-how-to-use-and-love-them)**: A guide to using and the benefits of variable fonts in real projects, explaining how they can improve user experience and performance (eng).
+🔵 **[Variable Fonts in Real Life on Evil Martians](https://evilmartians.com/chronicles/variable-fonts-in-real-life-how-to-use-and-love-them)**: A guide to using and the benefits of variable fonts in real projects, explaining how they can improve user experience and performance.
 
-🔵 **[Third-party Fonts Pattern on web.dev](https://web.dev/patterns/web-vitals-patterns/fonts/fonts-third-party?hl=en)** and **[Self-hosted Fonts Pattern](https://web.dev/patterns/web-vitals-patterns/fonts/font-self-hosted?hl=en)**: Best practices and templates for using third-party and self-hosted fonts to optimize loading and performance (eng).
+🔵 **[Third-party Fonts Pattern on web.dev](https://web.dev/patterns/web-vitals-patterns/fonts/fonts-third-party?hl=en)** and **[Self-hosted Fonts Pattern](https://web.dev/patterns/web-vitals-patterns/fonts/font-self-hosted?hl=en)**: Best practices and templates for using third-party and self-hosted fonts to optimize loading and performance.
 
-🔵 **[Best Practices for Fonts on web.dev](https://web.dev/articles/font-best-practices?hl=en)**: A set of recommendations for using fonts in web development, including tips on optimization and accessibility (eng).
+🔵 **[Best Practices for Fonts on web.dev](https://web.dev/articles/font-best-practices?hl=en)**: A set of recommendations for using fonts in web development, including tips on optimization and accessibility.
 
-🔵 **[CSS Size-adjust for @font-face on web.dev](https://web.dev/articles/css-size-adjust?hl=en)**: An overview of the `size-adjust` property for `@font-face`, allowing size adjustment for improved readability and text consistency (eng).
+🔵 **[CSS Size-adjust for @font-face on web.dev](https://web.dev/articles/css-size-adjust?hl=en)**: An overview of the `size-adjust` property for `@font-face`, allowing size adjustment for improved readability and text consistency.
 
-🔵 **[Search for Matching Web-Safe Fonts](https://web-safe-fonts.vercel.app/)**: A tool for finding web-safe fonts compatible with most browsers and devices (eng).
+🔵 **[Search for Matching Web-Safe Fonts](https://web-safe-fonts.vercel.app/)**: A tool for finding web-safe fonts compatible with most browsers and devices.
 
-🔵 **[More About Font Properties on Scaler](https://www.scaler.com/topics/css/css-font-properties/)**: A deep study of `font` properties in CSS, including various aspects of text styling such as font, size, line height, weight, and style (eng).
+🔵 **[More About Font Properties on Scaler](https://www.scaler.com/topics/css/css-font-properties/)**: A deep study of `font` properties in CSS, including various aspects of text styling such as font, size, line height, weight, and style.
 
 ### Tools
 
-**[Fontsquirrel Webfont Generator](http://www.fontsquirrel.com/tools/webfont-generator)**: A powerful tool for converting font files into web-compatible formats, making it easier to integrate custom fonts into web projects. (eng)
+**[Fontsquirrel Webfont Generator](http://www.fontsquirrel.com/tools/webfont-generator)**: A powerful tool for converting font files into web-compatible formats, making it easier to integrate custom fonts into web projects.
 
-**[Adobe Fonts](https://fonts.adobe.com/)**: A huge collection of fonts for use in web projects and Adobe applications, available only to Creative Cloud subscribers. (eng)
+**[Adobe Fonts](https://fonts.adobe.com/)**: A huge collection of fonts for use in web projects and Adobe applications, available only to Creative Cloud subscribers.
 
-**[What the Font](https://www.myfonts.com/WhatTheFont/)**: A service for identifying fonts from images, helping to find out the name of unknown fonts. In case of difficulties, it is suggested to consult the forum for expert help. (eng)
+**[What the Font](https://www.myfonts.com/WhatTheFont/)**: A service for identifying fonts from images, helping to find out the name of unknown fonts. In case of difficulties, it is suggested to consult the forum for expert help.
 
-**[Identifont](http://www.identifont.com/)**: A tool for finding similar fonts if it is not possible to determine a specific font. The search is possible by image, popular fonts, and other characteristics. (eng)
+**[Identifont](http://www.identifont.com/)**: A tool for finding similar fonts if it is not possible to determine a specific font. The search is possible by image, popular fonts, and other characteristics.
 
-**[Fount](https://fount.artequalswork.com/)**: A browser extension that allows users to identify fonts on any website. To use it, simply install the extension and activate it on the site of interest. (eng)
+**[Fount](https://fount.artequalswork.com/)**: A browser extension that allows users to identify fonts on any website. To use it, simply install the extension and activate it on the site of interest.
 
-**[FontForge](https://fontforge.org/)**: An open-source font editor providing comprehensive tools for creating, editing, and converting fonts. FontForge supports creating fonts from scratch and importing characters from other formats. (eng)
+**[FontForge](https://fontforge.org/)**: An open-source font editor providing comprehensive tools for creating, editing, and converting fonts. FontForge supports creating fonts from scratch and importing characters from other formats.
 
-**[FontBase](https://fontba.se/)**: A free font manager for Mac, Windows, and Linux, offering a convenient interface for viewing, managing, and quickly accessing installed fonts through a search and tagging system. (eng)
+**[FontBase](https://fontba.se/)**: A free font manager for Mac, Windows, and Linux, offering a convenient interface for viewing, managing, and quickly accessing installed fonts through a search and tagging system.
 
-**[Tiny Helpers - Fonts](https://tiny-helpers.dev/fonts/)**: A collection of useful tools for working with fonts, covering various aspects of typography and simplifying tasks related to font selection, optimization, and integration into the web. (eng)
+**[Tiny Helpers - Fonts](https://tiny-helpers.dev/fonts/)**: A collection of useful tools for working with fonts, covering various aspects of typography and simplifying tasks related to font selection, optimization, and integration into the web.
 
 ## Videos
 
-**[How To Apply CSS Styles to HTML on Codecademy](https://www.codecademy.com/resources/videos/web-design/how-to-apply-css-styles-to-html)**: A video tutorial demonstrating the main ways to apply CSS styles to HTML, including inline styles, internal styles, and external style sheets. The lesson helps beginners understand the basics of linking HTML and CSS (eng).
+**[How To Apply CSS Styles to HTML on Codecademy](https://www.codecademy.com/resources/videos/web-design/how-to-apply-css-styles-to-html)**: A video tutorial demonstrating the main ways to apply CSS styles to HTML, including inline styles, internal styles, and external style sheets. The lesson helps beginners understand the basics of linking HTML and CSS.
 
-**[Learn CSS with Codecademy](https://www.codecademy.com/resources/videos/html-and-css/learn-css-with-codecademy)**: A video series dedicated to the basics of CSS. The videos cover a wide range of topics from an introduction to CSS to advanced styling techniques, offering viewers practical examples and tasks for reinforcing the material (eng).
+**[Learn CSS with Codecademy](https://www.codecademy.com/resources/videos/html-and-css/learn-css-with-codecademy)**: A video series dedicated to the basics of CSS. The videos cover a wide range of topics from an introduction to CSS to advanced styling techniques, offering viewers practical examples and tasks for reinforcing the material.
 
 ## Demos
 

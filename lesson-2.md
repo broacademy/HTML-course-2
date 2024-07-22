@@ -76,6 +76,8 @@ In the next lessons, you can continue working on these layouts and start styling
 
 # Additional materials eng 
 
+https://help.figma.com/hc/en-us/articles/15297425105303-Explore-design-files 
+
 🟢 **[Official HTML specification](https://www.w3.org/html/)**: This resource is a complete and authoritative source of information about the HTML standard, proposed by W3C. It contains all the necessary details about tags, attributes, and the structure of HTML documents, providing a fundamental foundation for developers striving to follow the latest web standards. It is critically important for a deep understanding of the basics of web development and ensuring compatibility with various browsers and devices. It might be challenging to read now, so it's worth returning to the specification with experience.
 
 🟢 **[Stack Overflow: Best Technical Q&A Community](http://stackoverflow.com/)**: If you are learning HTML, you will find many discussions and answers to your questions on Stack Overflow. This community is the perfect place for knowledge exchange and problem-solving related to web development. Regardless of your level of knowledge, here you will find support and resources for learning and improving your HTML skills.
