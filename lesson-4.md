@@ -3,8 +3,9 @@
 **[Presentation](presentations/presentation-4.pdf)**<br />
 **[Manual](manuals/manual-4.pdf)**<br />
 
-<!-- **[Video record](https://drive.google.com/file/d/1Tb1lsks43vtdxjWWKCy8kkTLy6X1iRKr/view?usp=drive_link)**
-**[Practice](practice/practice-3.pdf)** -->
+**[Video record](https://drive.google.com/file/d/19jHjiC_OBGG8i6usskaJlS2iIoP4yrhF/view?usp=drive_link)**
+**[Practice](practice/practice-4.pdf)**
+**[Example project styles](https://github.com/broacademy/pharmify/tree/lesson-4)**<br />
 
 # Homework
 
