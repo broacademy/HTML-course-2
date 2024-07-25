@@ -31,7 +31,7 @@ SEO: Google trims titles between 472 to 482 pixels, so the title length should b
 The ```<meta type=”description”>``` must be unique and less than 150 characters.  
 It appears in search engines below the title.  
 
-6. ❤️
+6. 💚
 **Favicon icons display correctly.**  
 Format – ico, png, svg.  
 Sizes – 16х16, 32х32, 48х48, 64х64.  
@@ -332,7 +332,7 @@ CSS vendor prefixes are used and generated according to supported browsers. <br 
 **Comment magic numbers in functions and browser hacks.** 
 
 
-## 3. Графика
+## 3. Images
 
 1. ❤️
 **Correct Image Format** <br />
@@ -374,7 +374,7 @@ WebP format can be used for critical pages, such as the homepage. <br />
 Complete guide to SVG sprites https://medium.com/@hayavuk/complete-guide-to-svg-sprites-7e202e215d34  
 
 
-## 4. Общее
+## 4. Other 
 
 1. ❤️
 **The site should have a GitHub repository.** 
