@@ -3,8 +3,10 @@
 **[Presentation](presentations/presentation-5.pdf)**<br />
 **[Manual](manuals/manual-5.pdf)**<br />
 
-<!-- **[Video record](https://drive.google.com/file/d/1Tb1lsks43vtdxjWWKCy8kkTLy6X1iRKr/view?usp=drive_link)**
-**[Practice](practice/practice-3.pdf)** -->
+**[Video record](https://drive.google.com/file/d/1FdFArFAofmNqNBHd_ZrSW8R8wYiGiItQ/view?usp=drive_link)**
+**[Practice](practice/practice-3.pdf)**
+
+**[Example project images Pharmify](https://github.com/broacademy/pharmify/tree/lesson-5)**<br />
 
 # Homework
 
@@ -112,6 +114,8 @@
 **[SVGcode: a PWA to Convert Raster Images to SVG Vector Graphics](https://web.dev/case-studies/svgcode?hl=en)**: Talks about a progressive web app that converts raster images to vector SVG graphics, improving the process of working with images on websites.
 
 **[SVG Filters: The Crash Course](https://www.sarasoueidan.com/blog/svg-filters/)** and **[The SVG Filters Series](https://www.sarasoueidan.com/blog/svg-filters-series/)**: A deep dive into SVG filters, offering a detailed explanation of their use for creating complex visual effects.
+
+**[Radial Gradients in SVG tutorial](https://www.digitalocean.com/community/tutorials/svg-radial-gradients)** 
 
 #### Tools 
 

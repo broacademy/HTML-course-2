@@ -2,12 +2,13 @@
 
 **[Presentation](presentations/presentation-2.pdf)**<br />
 **[Manual](manuals/manual-2.pdf)**<br />
+
 **[Video record](https://drive.google.com/file/d/1LFTQpNfXoO1y0rZUdSaZknG6Ak9EGKBn/view?usp=drive_link)**<br />
-**[Example project](https://github.com/broacademy/pharmify)**<br />
+**[Practice](practice/practice-2.pdf)**
+
+**[Example project markup Pharmify](https://github.com/broacademy/pharmify)**<br />
 
 [Criteria for HTML Course Quality](criteria.md)<br />
-
-[Practice](practice/practice-2.pdf)
 
 # Homework
 

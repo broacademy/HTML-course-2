@@ -25,10 +25,10 @@
 10.07.2024 [Git Practice](practice/practice-3.pdf) <br />
 <!-- (lesson-3.md)  -->
 22.07.2024 [Lesson 4. CSS](lesson-4.md) <br />
-24.07.2024 [CSS Practice]<br />
+24.07.2024 [CSS Practice](practice/practice-4.pdf)<br />
 <!-- (lesson-4.md) -->
-29.07.2024 [Lesson 5. Images]  <br />
-31.07.2024 [Images Practice]  <br />
+29.07.2024 [Lesson 5. Images](lesson-5.md)  <br />
+31.07.2024 [Images Practice](practice/practice-5.pdf)  <br />
 <!-- (lesson-5.md)  -->
 05.08.2025 [Lesson 6. Forms] <br />
 07.08.2024 [Forms Practice]  <br />
