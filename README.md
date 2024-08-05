@@ -30,7 +30,7 @@
 29.07.2024 [Lesson 5. Images](lesson-5.md)  <br />
 31.07.2024 [Images Practice](practice/practice-5.pdf)  <br />
 <!-- (lesson-5.md)  -->
-05.08.2025 [Lesson 6. Forms] <br />
+05.08.2025 [Lesson 6. Forms](lesson-6.md) <br />
 07.08.2024 [Forms Practice]  <br />
 <!-- (lesson-6.md)  -->
 12.08.2024 [Practice]  <br />
