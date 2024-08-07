@@ -31,7 +31,7 @@
 31.07.2024 [Images Practice](practice/practice-5.pdf)  <br />
 <!-- (lesson-5.md)  -->
 05.08.2025 [Lesson 6. Forms](lesson-6.md) <br />
-07.08.2024 [Forms Practice]  <br />
+07.08.2024 [Forms Practice](https://codepen.io/broacademy/pen/dyBRzjZ)  <br />
 <!-- (lesson-6.md)  -->
 12.08.2024 [Practice]  <br />
 14.08.2024 [Practice] <br />
