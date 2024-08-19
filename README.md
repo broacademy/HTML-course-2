@@ -36,7 +36,7 @@
 12.08.2024 [Practice]  <br />
 14.08.2024 [Practice] <br />
  
-19.08.2024 [Lesson 7. Document model & flexbox](lesson-7.md) />
+19.08.2024 [Lesson 7. Document model & flexbox](lesson-7.md) <br />
 21.08.2024 [Flex Practice]<br />
 <!-- (lesson-7.md) -->
 26.08.2024 [Lesson 8. Grid]<br />
