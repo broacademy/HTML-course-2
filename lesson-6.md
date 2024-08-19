@@ -3,10 +3,10 @@
 **[Presentation](presentations/presentation-6.pdf)**<br />
 **[Manual](manuals/manual-6.pdf)**<br />
 
-<!-- 
-**[Video record](https://drive.google.com/file/d/1FdFArFAofmNqNBHd_ZrSW8R8wYiGiItQ/view?usp=drive_link)**
-**[Practice](practice/practice-3.pdf)**
+**[Video record](https://drive.google.com/file/d/1JgGfRVoFj9hAjCO50C6AYQUwcEfY4mob/view?usp=drive_link)**
+**[Practice](https://codepen.io/broacademy/pen/dyBRzjZ)**
 
+<!-- 
 **[Example project images Pharmify](https://github.com/broacademy/pharmify/tree/lesson-6)**<br /> -->
 
 ### Homework
