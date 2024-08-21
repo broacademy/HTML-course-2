@@ -52,5 +52,5 @@
 18.09.2024 [Practice] <br />
 23.09.2024 [Practice]<br />
 <!-- (pre-final-practise.md) -->
-25.09.2024 [Final]<br />
+25.09.2024 Gradiation :tada: :tada: :tada: <br />
 <!-- (final.md)  -->
