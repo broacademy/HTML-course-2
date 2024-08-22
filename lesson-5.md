@@ -137,7 +137,7 @@
 
 ### Webp
 
-🟢 **[Modern Image Formats: AVIF and WebP](https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/)**: The article explores the advantages and disadvantages of using AVIF and WebP, two modern image formats that offer significant compression and quality improvements over traditional formats like JPEG and PNG. (eng)
+🟢 **[Modern Image Formats: AVIF and WebP](https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/)**: The article explores the advantages and disadvantages of using AVIF and WebP, two modern image formats that offer significant compression and quality improvements over traditional formats like JPEG and PNG.
 
 **[A Web Designer's Guide to the WebP Image Format](https://webdesign.tutsplus.com/a-web-designers-guide-to-the-webp-image-format--CRS-200946c)**: A comprehensive guide to WebP, a new image format from Google that offers high quality with smaller file sizes.
 
