@@ -25,7 +25,7 @@ This will allow you to quickly get into the technology.
 
 Optional: Practice creating grids. Start with simple small examples. Rewrite the same examples you did with flex into grids. Take the [page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page) as the final example.    
 
-4. Add grids to your work where they are more convenient than flex layouts.
+3. Add grids to your work where they are more convenient than flex layouts.
     For example: 
     - about us 
     - how to binabox work
