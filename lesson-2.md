@@ -4,7 +4,7 @@
 **[Manual](manuals/manual-2.pdf)**<br />
 
 **[Video record](https://drive.google.com/file/d/1LFTQpNfXoO1y0rZUdSaZknG6Ak9EGKBn/view?usp=drive_link)**<br />
-**[Practice](practice/practice-2.pdf)**
+**[Practice](practice/practice-2.pdf)** <br />
 
 **[Example project markup Pharmify](https://github.com/broacademy/pharmify)**<br />
 

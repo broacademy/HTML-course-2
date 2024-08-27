@@ -3,7 +3,7 @@
 **[Presentation](presentations/presentation-6.pdf)**<br />
 **[Manual](manuals/manual-6.pdf)**<br />
 
-**[Video record](https://drive.google.com/file/d/1JgGfRVoFj9hAjCO50C6AYQUwcEfY4mob/view?usp=drive_link)**
+**[Video record](https://drive.google.com/file/d/1JgGfRVoFj9hAjCO50C6AYQUwcEfY4mob/view?usp=drive_link)** <br />
 **[Practice](https://codepen.io/broacademy/pen/dyBRzjZ)**
 
 <!-- 

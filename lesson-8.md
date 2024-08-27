@@ -3,10 +3,11 @@
 **[Presentation](presentations/presentation-8.pdf)**<br />
 **[Manual](manuals/manual-8.pdf)**<br />
 
- <!--
-**[Video record](https://drive.google.com/file/d/1hfN5zd4a9B_ZLXWi7jsRCg3cY9dKqldO/view?usp=drive_link)**
+
+**[Video record](https://drive.google.com/file/d/1DgM-j7rsezq5uRUtPnrOBqOB-5pXq0CN/view?usp=drive_link)** <br />
 **[Practice](practice/practice-7.pdf)**
 
+ <!--
 **[Example project images Pharmify](https://github.com/broacademy/pharmify/tree/lesson-8)**<br /> -->
 
 # Homework

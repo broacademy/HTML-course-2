@@ -3,8 +3,8 @@
 **[Presentation](presentations/presentation-3.pdf)**<br />
 **[Manual](manuals/manual-3.pdf)**<br />
 
-**[Video record](https://drive.google.com/file/d/1Tb1lsks43vtdxjWWKCy8kkTLy6X1iRKr/view?usp=drive_link)**
-**[Practice](practice/practice-3.pdf)**
+**[Video record](https://drive.google.com/file/d/1Tb1lsks43vtdxjWWKCy8kkTLy6X1iRKr/view?usp=drive_link)** <br />
+**[Practice](practice/practice-3.pdf)** 
 
 # Homework
 

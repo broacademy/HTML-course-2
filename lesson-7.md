@@ -4,7 +4,7 @@
 **[Manual](manuals/manual-7.pdf)**<br />
 
  
-**[Video record](https://drive.google.com/file/d/1hfN5zd4a9B_ZLXWi7jsRCg3cY9dKqldO/view?usp=drive_link)**
+**[Video record](https://drive.google.com/file/d/1hfN5zd4a9B_ZLXWi7jsRCg3cY9dKqldO/view?usp=drive_link)** <br />
 **[Practice](practice/practice-7.pdf)**
 
 <!--

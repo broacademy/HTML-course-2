@@ -3,8 +3,8 @@
 **[Presentation](presentations/presentation-4.pdf)**<br />
 **[Manual](manuals/manual-4.pdf)**<br />
 
-**[Video record](https://drive.google.com/file/d/19jHjiC_OBGG8i6usskaJlS2iIoP4yrhF/view?usp=drive_link)**
-**[Practice](practice/practice-4.pdf)**
+**[Video record](https://drive.google.com/file/d/19jHjiC_OBGG8i6usskaJlS2iIoP4yrhF/view?usp=drive_link)** <br />
+**[Practice](practice/practice-4.pdf)** <br />
 
 **[Example project styles Pharmify](https://github.com/broacademy/pharmify/pull/2/files#diff-1fc556f95754ee7e33d91044125c44bb9f750c99be4406756ffb27413adfcaf5)**<br />
 

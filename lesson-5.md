@@ -3,8 +3,8 @@
 **[Presentation](presentations/presentation-5.pdf)**<br />
 **[Manual](manuals/manual-5.pdf)**<br />
 
-**[Video record](https://drive.google.com/file/d/1FdFArFAofmNqNBHd_ZrSW8R8wYiGiItQ/view?usp=drive_link)**
-**[Practice](practice/practice-3.pdf)**
+**[Video record](https://drive.google.com/file/d/1FdFArFAofmNqNBHd_ZrSW8R8wYiGiItQ/view?usp=drive_link)** <br />
+**[Practice](practice/practice-3.pdf)** <br />
 
 **[Example project images Pharmify](https://github.com/broacademy/pharmify/tree/lesson-5)**<br />
 
