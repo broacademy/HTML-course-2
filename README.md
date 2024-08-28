@@ -40,7 +40,7 @@
 21.08.2024 [Flex Practice](practice/practice-7.pdf) <br />
 <!-- (lesson-7.md) -->
 26.08.2024 [Lesson 8. Grid](lesson-8.md) <br />
-28.08.2024 [Grid Practice] <br />
+28.08.2024 [Grid Practice](practice/practice-8.pdf) <br />
 <!-- (lesson-8.md)  -->
 02.09.2024 [Lesson 9. CSS+]  <br />
 04.09.2024 [CSS Practice]  <br />
