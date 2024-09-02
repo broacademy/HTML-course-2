@@ -23,34 +23,33 @@
   
 08.07.2024 [Lesson 3. Git](lesson-3.md)  <br />
 10.07.2024 [Git Practice](practice/practice-3.pdf) <br />
-<!-- (lesson-3.md)  -->
+
 22.07.2024 [Lesson 4. CSS](lesson-4.md) <br />
 24.07.2024 [CSS Practice](practice/practice-4.pdf)<br />
-<!-- (lesson-4.md) -->
+
 29.07.2024 [Lesson 5. Images](lesson-5.md)  <br />
 31.07.2024 [Images Practice](practice/practice-5.pdf)  <br />
-<!-- (lesson-5.md)  -->
+
 05.08.2025 [Lesson 6. Forms](lesson-6.md) <br />
 07.08.2024 [Forms Practice](https://codepen.io/broacademy/pen/dyBRzjZ)  <br />
-<!-- (lesson-6.md)  -->
+
 12.08.2024 [Practice]  <br />
 14.08.2024 [Practice] <br />
  
 19.08.2024 [Lesson 7. Document model & flexbox](lesson-7.md) <br />
 21.08.2024 [Flex Practice](practice/practice-7.pdf) <br />
-<!-- (lesson-7.md) -->
+
 26.08.2024 [Lesson 8. Grid](lesson-8.md) <br />
 28.08.2024 [Grid Practice](practice/practice-8.pdf) <br />
-<!-- (lesson-8.md)  -->
-02.09.2024 [Lesson 9. CSS+]  <br />
+
+02.09.2024 [Lesson 9. CSS+](lesson-9.md)  <br />
 04.09.2024 [CSS Practice]  <br />
-<!-- (lesson-9.md)  -->
+
 09.09.2024 [Lesson 10. Animation]<br />
 11.09.2024 [Animation Practice]<br />
-<!-- (lesson-10.md)  -->
+
 16.09.2024 [Pre diploma Practice]<br />
 18.09.2024 [Practice] <br />
 23.09.2024 [Practice]<br />
-<!-- (pre-final-practise.md) -->
+
 25.09.2024 Gradiation :tada: :tada: :tada: <br />
-<!-- (final.md)  -->
