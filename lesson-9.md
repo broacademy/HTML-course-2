@@ -1,3 +1,15 @@
+# Lesson 9. CSS+
+
+**[Presentation](presentations/presentation-9.pdf)**<br />
+**[Manual](manuals/manual-9.pdf)**<br />
+
+
+**[Video record](https://drive.google.com/file/d/15xcGyQV1q0Ams9eTuCvbvykAEkRYWqq_/view?usp=sharing)** <br />
+**[Practice](practice/practice-9.pdf)**
+
+ <!--
+**[Example project images Pharmify](https://github.com/broacademy/pharmify/tree/lesson-9)**<br /> -->
+
 # Homework
 
 ## 1. Complete one of the following courses to reinforce your understanding of the theory:

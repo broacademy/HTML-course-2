@@ -5,7 +5,7 @@
 
 
 **[Video record](https://drive.google.com/file/d/1DgM-j7rsezq5uRUtPnrOBqOB-5pXq0CN/view?usp=drive_link)** <br />
-**[Practice](practice/practice-7.pdf)**
+**[Practice](practice/practice-8.pdf)**
 
  <!--
 **[Example project images Pharmify](https://github.com/broacademy/pharmify/tree/lesson-8)**<br /> -->
