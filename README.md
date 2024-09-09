@@ -33,8 +33,8 @@
 05.08.2025 [Lesson 6. Forms](lesson-6.md) <br />
 07.08.2024 [Forms Practice](https://codepen.io/broacademy/pen/dyBRzjZ)  <br />
 
-12.08.2024 [Practice]  <br />
-14.08.2024 [Practice] <br />
+12.08.2024 Practice <br />
+14.08.2024 Practice <br />
  
 19.08.2024 [Lesson 7. Document model & flexbox](lesson-7.md) <br />
 21.08.2024 [Flex Practice](practice/practice-7.pdf) <br />
@@ -43,13 +43,13 @@
 28.08.2024 [Grid Practice](practice/practice-8.pdf) <br />
 
 02.09.2024 [Lesson 9. CSS+](lesson-9.md)  <br />
-04.09.2024 [CSS Practice]  <br />
+04.09.2024 [CSS Practice](practice/practice-9.pdf)   <br />
 
-09.09.2024 [Lesson 10. Animation]<br />
-11.09.2024 [Animation Practice]<br />
+09.09.2024 [Lesson 10. Animation] <br />
+11.09.2024 [Animation Practice] <br />
 
-16.09.2024 [Pre diploma Practice]<br />
-18.09.2024 [Practice] <br />
-23.09.2024 [Practice]<br />
+16.09.2024 [Pre diploma Practice] <br />
+18.09.2024 Practice <br />
+23.09.2024 Practice <br />
 
 25.09.2024 Gradiation :tada: :tada: :tada: <br />

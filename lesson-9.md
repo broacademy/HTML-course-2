@@ -49,6 +49,22 @@ Your website should look exactly like the design mockup. This is the final stage
 
 [Hiding Web](https://ishadeed.com/article/hiding-web): Discusses various ways to hide content on web pages using CSS to improve accessibility and user experience.
 
+## Hover, focus, active
+
+🟢 **[Hover Effects in CSS](https://www.scaler.com/topics/hover-css/)**: This article on Scaler presents various methods of creating hover effects in CSS. You will learn different techniques and tricks that will help you create interesting and attractive animations and effects when hovering the mouse cursor.
+
+**[Gradients, Blend Modes, and Hover Effects](https://www.smashingmagazine.com/2023/09/gradients-blend-modes-hover-effect/)**: This article on Smashing Magazine discusses the use of gradients, blend modes, and hover effects in CSS. The author presents various techniques and examples of using gradients and blend modes to create unique hover effects.
+
+**[Style focus](https://web.dev/articles/style-focus?hl=en)**: This article on web.dev provides a guide on styling focus in web development. You will learn different ways to style the focus of elements to make your interface more accessible and user-friendly.
+
+**[Build a Fancy Hover Animation](https://piccalil.li/tutorial/build-a-fancy-hover-animation/)**: This tutorial on Piccalilli offers a step-by-step guide to creating unique hover animations. You will learn how to create beautiful and original animations that will add style and character to your website.
+
+**[How to Create Different CSS Hover Effects from Scratch](https://webdesign.tutsplus.com/how-to-create-different-css-hover-effects-from-scratch--cms-34222t)**: This article on Tuts+ discusses creating various hover effects from scratch using CSS. You will learn different techniques and tricks that will help you create interesting and attractive hover animations.
+
+**[CSS Hover Effects for Inline Links](https://webdesign.tutsplus.com/css-hover-effects-for-inline-links--cms-37210t)**: This article on Tuts+ discusses creating hover effects for inline links in CSS. The author presents various methods and techniques for styling links to make them more interactive and attractive for users.
+
+**[Scale with Pseudo-elements](https://www.joshwcomeau.com/snippets/html/scale-with-pseudoelements/)**: This tutorial on JoshWComeau provides a guide to scaling elements with pseudo-elements in HTML and CSS. You will learn how to use pseudo-elements to create scaling and transformation effects on elements in your web project.
+
 ## Shadows
 
 [CSS Shadows](https://sharkcoder.com/visual/shadow): This article walks through different types of shadows that can be added to blocks and text using CSS, making your web pages more aesthetically pleasing.
