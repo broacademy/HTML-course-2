@@ -1,7 +1,8 @@
 # Lesson 10. Animation
 
 **[Presentation](presentations/presentation-10.pdf)**<br />
-**[Manual](manuals/manual-10.pdf)**<br />
+**[Manual](in progress)**
+<!-- (manuals/manual-10.pdf)**<br /> -->
 
 
 <!-- **[Video record](https://drive.google.com/file/d/15xcGyQV1q0Ams9eTuCvbvykAEkRYWqq_/view?usp=sharing)** <br />
