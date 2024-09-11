@@ -208,7 +208,7 @@ except for body, ul, a, img. <br />
    ```
 
 9. 💛
-**Elements with background images should have a matching background color.** 
+**Elements with background images should have a matching background color, if it's matter for text contrast** 
    ```
    section {
       background-image: url(sunset.jpg);
@@ -296,7 +296,7 @@ width, height, position, padding, margin. <br />
 15. ❤️
 **Links must respond to ```:hover, :active и :focus```.** <br />
 If not specified in the design, you can use underline, color change, etc. <br />
-All links, except for menu items, must respond to the ```:visited``` state. 
+All external links, except for menu items, must respond to the ```:visited``` state, if you can add it. 
 
 16. 💛
 **Interactions( ```:hover, :active и :focus```) should not change the document flow.** <br />
