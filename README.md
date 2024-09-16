@@ -45,10 +45,10 @@
 02.09.2024 [Lesson 9. CSS+](lesson-9.md)  <br />
 04.09.2024 [CSS Practice](practice/practice-9.pdf)   <br />
 
-09.09.2024 [Lesson 10. Animation] <br />
-11.09.2024 [Animation Practice] <br />
+09.09.2024 [Lesson 10. Animation](lesson-10.md) <br />
+11.09.2024 [Animation Practice](practice/practice-10.pdf) <br />
 
-16.09.2024 [Pre diploma Practice] <br />
+16.09.2024 [Pre diploma Practice](pre-final-practice.md) <br />
 18.09.2024 Practice <br />
 23.09.2024 Practice <br />
 
