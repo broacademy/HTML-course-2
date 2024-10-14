@@ -376,16 +376,28 @@ Complete guide to SVG sprites https://medium.com/@hayavuk/complete-guide-to-svg-
 
 ## 4. Other 
 
-1. ❤️
-**The site should have a GitHub repository.** 
+1. :heart: 
+**The site should have a GitHub repository** 
+2. :heart:
+**There's no system file like .DS_Store or Thumbs.db in the repository**
+3. :heart:
+**There are no commits in the target branch (usually main)**
+4. :yellow_heart:
+**Commit messages are descriptive**
+5. :green_heart:
+**Each commit is a logical unit**
+6. :green_heart:
+**Commits are atomic**
+7. :green_heart:
+**Commit message no longer than 60 symbols**
 
-2. ❤️
+8. ❤️
 **The root document should have folders like css, img, js.** 
 
-3. ❤️
+9. ❤️
 **The main page should be named index.html.** 
 
-4. ❤️
+10. ❤️
 **File names and extensions should be lowercase without spaces.** <br />
 
    *Bad:*
@@ -404,7 +416,7 @@ Complete guide to SVG sprites https://medium.com/@hayavuk/complete-guide-to-svg-
    catalog-page.html
    ```
 
-5. ❤️
+11. ❤️
 **Files should be uniformly formatted.** <br />
 The same number of indents - tabs or spaces inside one file. <br />
 The same number of empty lines before/after elements. <br />
@@ -436,13 +448,13 @@ It's easiest to use automatic alignment in the code editor for this. <br />
    }
    ```
    
-6. ❤️
+12. ❤️
 **The layout should match the design exactly with Perfect pixel** <br />
 Block placement should be 1:1 compared to the design. <br />
 A discrepancy of up to 5px for text is allowed. <br />
 Corrections to the size and placement of poorly drawn blocks (1-2px difference on different pages) are allowed and even encouraged. 
 
-7. ❤️
+13. ❤️
 **The layout should display identically in the latest versions of Chrome, Opera, Firefox, Safari, and Edge.** <br />
 BrowserShots.org <br />
 Browserling.com <br />
@@ -450,13 +462,13 @@ BrowserStack <br />
 LambdaTest <br />
 CrossBrowserTesting <br />
 
-8. ❤️
+14. ❤️
 **The site should look good on all screen resolutions.** <br />
 At a width of 1280, the site should match the design. <br />
 At widths less than the design width, the site should either scale or have a horizontal scroll. <br />
 At widths greater than the design width, the site content should remain centered, and all backgrounds should stretch to the full screen width. There should be no horizontal scroll. 
 
-9. ❤️
+15. ❤️
 **The site should handle content overflow gracefully.** <br />
 When adding more text to elements; <br />
 Text should not fall out of objects; <br />
@@ -464,13 +476,13 @@ Text should not fall out of objects; <br />
 When using images of inappropriate sizes; <br />
 Overflow of content blocks should not break the grid. <br />
 
-10. 💛
+16. 💛
 **Unnecessary code should be removed before production.** <br />
 The layout should not contain commented-out "just in case" pieces of code, unnecessary unused files, old versions of files, etc. 
 
-11. 💚
+17. 💚
 **Use a typographer for text formatting.**  
 
-12. 💛
+18. 💛
 **There should be no errors in the browser console.** 
 
