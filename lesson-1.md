@@ -14,7 +14,7 @@
 6. Read the additional materials. There is a lot of material, and it can take a long time to read it all. Plus, there is a big list of resources where you can independently search for the information you need.  <br />
 🟢 — must read <br />
 🔵 — can be read after the course <br />
-7. When you are added to Jira, I will create a task for each of you. You will need to track its status from **“To Do”** to **“Code Review”**. Only mentors can set the status to **“Done”**. It’s test tasks for try to use Jira. 
+7. When you are added to Jira, I will create a task for each of you. You will need to track its status from **“To Do”** to **“TO REVIEW”**. Only mentors can set the status to **“Done”**. It’s test tasks for try to use Jira. 
 
 # Additional Materials
 
